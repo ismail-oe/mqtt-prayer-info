@@ -1,0 +1,5416 @@
+{
+  "data": [
+    {
+      "ay": 3,
+      "gun": 14,
+      "olay": "Tıbbiyenin açılışı (1827)",
+      "order": 159
+    },
+    {
+      "ay": 3,
+      "gun": 14,
+      "olay": "Tıp Bayramı",
+      "order": 160
+    },
+    {
+      "ay": 10,
+      "gun": 23,
+      "olay": "Van depremi (2011)",
+      "order": 1785
+    },
+    {
+      "ay": 10,
+      "gun": 23,
+      "olay": "Kırım Harbi'nin başlaması (1853)",
+      "order": 1784
+    },
+    {
+      "ay": 10,
+      "gun": 23,
+      "olay": "Posta Nezâreti (PTT)'nin kurulması (1840)",
+      "order": 639
+    },
+    {
+      "ay": 10,
+      "gun": 22,
+      "olay": "Pâdişah fermânı ile başlık parasının yasaklanması (1831)",
+      "order": 1783
+    },
+    {
+      "ay": 10,
+      "gun": 22,
+      "olay": "Tebük Seferi (630)",
+      "order": 638
+    },
+    {
+      "ay": 10,
+      "gun": 21,
+      "olay": "Bağ bozumu zamanı ve fırtınası",
+      "order": 1782
+    },
+    {
+      "ay": 10,
+      "gun": 21,
+      "olay": "İlk husûsî gazete Tercümân-ı Ahvâl'in çıkması (1860)",
+      "order": 637
+    },
+    {
+      "ay": 10,
+      "gun": 20,
+      "olay": "Fransızlar'ın Anadolu'dan çekilmesi (1921)",
+      "order": 1781
+    },
+    {
+      "ay": 10,
+      "gun": 20,
+      "olay": "Ağaç dikme ve çelikleme zamanı",
+      "order": 636
+    },
+    {
+      "ay": 10,
+      "gun": 19,
+      "olay": "Ankara Tıp Fakültesi'nin açılışı (1925)",
+      "order": 1780
+    },
+    {
+      "ay": 10,
+      "gun": 19,
+      "olay": "Sultan İkinci Murâd Han'ın İkinci Kosova Zaferi (1448)",
+      "order": 635
+    },
+    {
+      "ay": 10,
+      "gun": 18,
+      "olay": "Osmanlı-Polonya arasında Bucaş Anlaşması (1672)",
+      "order": 1779
+    },
+    {
+      "ay": 10,
+      "gun": 18,
+      "olay": "Azerbaycan'ın istiklâli (1991)",
+      "order": 634
+    },
+    {
+      "ay": 10,
+      "gun": 17,
+      "olay": "Dünya Yoksullukla Mücadele Günü",
+      "order": 1778
+    },
+    {
+      "ay": 10,
+      "gun": 16,
+      "olay": "Yağmur mevsimi başlangıcı",
+      "order": 1777
+    },
+    {
+      "ay": 10,
+      "gun": 16,
+      "olay": "Dünya Gıdâ ve Tarım Günü",
+      "order": 631
+    },
+    {
+      "ay": 10,
+      "gun": 14,
+      "olay": "Dünya Standartlar Günü",
+      "order": 1775
+    },
+    {
+      "ay": 10,
+      "gun": 14,
+      "olay": "Nizâmü'l-mülk'ün şehâdeti (1092)",
+      "order": 627
+    },
+    {
+      "ay": 10,
+      "gun": 11,
+      "olay": "Ahîlik Kültürü Haftası ve Esnaf Bayramı",
+      "order": 1774
+    },
+    {
+      "ay": 10,
+      "gun": 11,
+      "olay": "Mudanya Konferansı ve Mudanya Mütârekesi (1922)",
+      "order": 621
+    },
+    {
+      "ay": 10,
+      "gun": 10,
+      "olay": "Belgrad’ın ikinci defa fethi (1690)",
+      "order": 1773
+    },
+    {
+      "ay": 10,
+      "gun": 10,
+      "olay": "Hazret-i Hüseyin radıyallâhü anh’in şehâdeti (680)",
+      "order": 620
+    },
+    {
+      "ay": 10,
+      "gun": 8,
+      "olay": "Birinci Balkan Harbi'nin başlaması (1912)",
+      "order": 1771
+    },
+    {
+      "ay": 10,
+      "gun": 8,
+      "olay": "Islah-ı Sanayi Komisyonu kuruldu (1862)",
+      "order": 617
+    },
+    {
+      "ay": 10,
+      "gun": 7,
+      "olay": "Amerikan ve İngiliz kuvvetlerinin Afganistan'a girmesi (2001)",
+      "order": 1770
+    },
+    {
+      "ay": 10,
+      "gun": 7,
+      "olay": "İnebahtı Deniz Savaşı ve donanmamızın yakılması (1571)",
+      "order": 616
+    },
+    {
+      "ay": 10,
+      "gun": 4,
+      "olay": "Uzay Haftası (4-10 Ekim)",
+      "order": 1769
+    },
+    {
+      "ay": 10,
+      "gun": 4,
+      "olay": "Dünya Hayvanları Koruma Günü",
+      "order": 610
+    },
+    {
+      "ay": 10,
+      "gun": 3,
+      "olay": "Dünya Mimarlık ve Konut Günü (Ekim’in İlk Pazartesi )",
+      "order": 1768
+    },
+    {
+      "ay": 10,
+      "gun": 5,
+      "olay": "Koç katımı fırtınası",
+      "order": 614
+    },
+    {
+      "ay": 10,
+      "gun": 3,
+      "olay": "Türkiye Cumhuriyet Merkez Bankası'nın Kuruluşu (1931)",
+      "order": 1767
+    },
+    {
+      "ay": 10,
+      "gun": 3,
+      "olay": "Doğu ve Batı Almanya'nın birleşmesi (1990)",
+      "order": 609
+    },
+    {
+      "ay": 9,
+      "gun": 30,
+      "olay": "Kânûnî Sultan Süleyman (1520) ve İkinci Selim Han’ın (1566) tahta çıkışı",
+      "order": 601
+    },
+    {
+      "ay": 9,
+      "gun": 23,
+      "olay": "Demiryolu Haftası",
+      "order": 1766
+    },
+    {
+      "ay": 9,
+      "gun": 23,
+      "olay": "Sonbaharın başlangıcı",
+      "order": 1765
+    },
+    {
+      "ay": 9,
+      "gun": 23,
+      "olay": "Devlet Demir Yolları'nın kuruluşu (1856)",
+      "order": 583
+    },
+    {
+      "ay": 9,
+      "gun": 22,
+      "olay": "İran-Irak Savaşı başladı (1980)",
+      "order": 1764
+    },
+    {
+      "ay": 9,
+      "gun": 22,
+      "olay": "Yavuz Sultan Selim Han'ın vefâtı (1520)",
+      "order": 580
+    },
+    {
+      "ay": 9,
+      "gun": 20,
+      "olay": "Peygamberimiz (s.a.v.)'in hicret esnasında Kuba'ya gelişi ve Kuba Mescidi'nin yapılması (622)",
+      "order": 575
+    },
+    {
+      "ay": 9,
+      "gun": 18,
+      "olay": "Selçuklular Hasankale (Pasinler) muharebesinde Bizans ordusunu yenilgiye uğrattı. (1048)",
+      "order": 1763
+    },
+    {
+      "ay": 9,
+      "gun": 18,
+      "olay": "Avusturya ve Rusya ile Belgrad sulhü (1739)",
+      "order": 570
+    },
+    {
+      "ay": 9,
+      "gun": 15,
+      "olay": "Sıcakların kırılması",
+      "order": 1762
+    },
+    {
+      "ay": 9,
+      "gun": 15,
+      "olay": "Mûte Savaşı (629)",
+      "order": 563
+    },
+    {
+      "ay": 9,
+      "gun": 13,
+      "olay": "Sakarya Zaferi (1921)",
+      "order": 1761
+    },
+    {
+      "ay": 9,
+      "gun": 13,
+      "olay": "Çaylak Fırtınası",
+      "order": 1760
+    },
+    {
+      "ay": 9,
+      "gun": 13,
+      "olay": "Silsile-i Sâdât’ın sekizinci halkası olan Hâce Yûsuf Hemedânî (k.s.) Hazretlerinin irtihâli (1140)",
+      "order": 559
+    },
+    {
+      "ay": 9,
+      "gun": 11,
+      "olay": "Bursa'nın kurtuluşu (1922)",
+      "order": 1759
+    },
+    {
+      "ay": 9,
+      "gun": 11,
+      "olay": "Budin (Budapeşte)' nin (1526) ve Graz'ın (1532) fetihleri",
+      "order": 556
+    },
+    {
+      "ay": 8,
+      "gun": 23,
+      "olay": "Hazret-i Ebûbekir (r.a.)’in irtihâli, Hazret-i Ömer (r.a.)’in halîfeliğe başlaması (634)",
+      "order": 503
+    },
+    {
+      "ay": 8,
+      "gun": 22,
+      "olay": "Sultan İkinci Mustafa hal' edildi, Üçüncü Ahmed tahta çıktı (1703)",
+      "order": 1756
+    },
+    {
+      "ay": 8,
+      "gun": 22,
+      "olay": "Barbaros Hayrettin Paşa'nın Tunus'u fethi (1534)",
+      "order": 502
+    },
+    {
+      "ay": 8,
+      "gun": 21,
+      "olay": "Rusya'nın Çekoslovakya'yı işgâli (1968)",
+      "order": 1755
+    },
+    {
+      "ay": 8,
+      "gun": 21,
+      "olay": "Mescid-i Aksâ'nın Yahûdilerce yakılması (1969)",
+      "order": 500
+    },
+    {
+      "ay": 8,
+      "gun": 19,
+      "olay": "Türk Denizaltıcılığı'nın başlaması (1890)",
+      "order": 1754
+    },
+    {
+      "ay": 8,
+      "gun": 19,
+      "olay": "Köprülü Fâzıl Mustafa Paşa'nın şehadeti (1691)",
+      "order": 498
+    },
+    {
+      "ay": 8,
+      "gun": 18,
+      "olay": "Selanik'te büyük yangın (1917)",
+      "order": 1753
+    },
+    {
+      "ay": 8,
+      "gun": 18,
+      "olay": "Yemişlerin kemâle ermesi",
+      "order": 497
+    },
+    {
+      "ay": 8,
+      "gun": 17,
+      "olay": "Endonezya (Hollanda’dan) istiklâlini kazandı (1945)",
+      "order": 1752
+    },
+    {
+      "ay": 8,
+      "gun": 17,
+      "olay": "7,4 şiddetindeki Marmara Zelzelesi (1999)",
+      "order": 1751
+    },
+    {
+      "ay": 8,
+      "gun": 17,
+      "olay": "Hanya'nın fethi (1645)",
+      "order": 495
+    },
+    {
+      "ay": 8,
+      "gun": 16,
+      "olay": "Kars'ın Selçuklu Türkleri tarafından fethi (1064)",
+      "order": 1750
+    },
+    {
+      "ay": 8,
+      "gun": 16,
+      "olay": "Milli Kütüphane açıldı (1948)",
+      "order": 494
+    },
+    {
+      "ay": 8,
+      "gun": 15,
+      "olay": "Panama kanalının açılışı (1915)",
+      "order": 1749
+    },
+    {
+      "ay": 8,
+      "gun": 15,
+      "olay": "Revan (1538) ve Trablusgarb'ın (1551) fethi",
+      "order": 493
+    },
+    {
+      "ay": 8,
+      "gun": 14,
+      "olay": "Japonya, II. Dünya Savaşı'nın sonunda kayıtsız şartsız teslim oldu (1945)",
+      "order": 1748
+    },
+    {
+      "ay": 8,
+      "gun": 14,
+      "olay": "İkinci Kıbrıs Harekâtı (1974)",
+      "order": 1747
+    },
+    {
+      "ay": 8,
+      "gun": 14,
+      "olay": "Pakistan'ın İstiklâli (1947)",
+      "order": 492
+    },
+    {
+      "ay": 10,
+      "gun": 30,
+      "olay": "Kars'ın kurtuluşu (1920)",
+      "order": 655
+    },
+    {
+      "ay": 3,
+      "gun": 7,
+      "olay": "Artvin'in kurtuluşu (1921)",
+      "order": 144
+    },
+    {
+      "ay": 10,
+      "gun": 30,
+      "olay": "Boğaziçi Köprüsü'nün açılışı (1973)",
+      "order": 656
+    },
+    {
+      "ay": 3,
+      "gun": 8,
+      "olay": "Yıldırım Bayezid Han'ın vefâtı (1403)",
+      "order": 145
+    },
+    {
+      "ay": 10,
+      "gun": 31,
+      "olay": "Harbiye Mektebi adı ile Harp Akademileri'nin açılışı (1846)",
+      "order": 657
+    },
+    {
+      "ay": 3,
+      "gun": 8,
+      "olay": "Bilim ve Teknoloji Haftası (8-14 Mart)",
+      "order": 146
+    },
+    {
+      "ay": 6,
+      "gun": 26,
+      "olay": "Uyuşturucu Kullanımı ve Trafiği ile Mücadele Günü",
+      "order": 402
+    },
+    {
+      "ay": 10,
+      "gun": 31,
+      "olay": "Ağaç budama zamanı",
+      "order": 658
+    },
+    {
+      "ay": 3,
+      "gun": 9,
+      "olay": "Lâleli Câmii ibâdete açıldı (1764)",
+      "order": 147
+    },
+    {
+      "ay": 10,
+      "gun": 31,
+      "olay": "Kahramanmaraş'ta Sütçü İmam Hâdisesi (1919)",
+      "order": 659
+    },
+    {
+      "ay": 3,
+      "gun": 9,
+      "olay": "Bağ budama ve kalem aşısı zamanı",
+      "order": 148
+    },
+    {
+      "ay": 6,
+      "gun": 27,
+      "olay": "En uzun günlerin sonu",
+      "order": 404
+    },
+    {
+      "ay": 11,
+      "gun": 1,
+      "olay": "Saltanat'ın kaldırılması ve Abdülmecid Efendi'nin TBMM tarafından Halife seçilmesi (1922)",
+      "order": 661
+    },
+    {
+      "ay": 3,
+      "gun": 10,
+      "olay": "Telefonun icâdı (1876)",
+      "order": 150
+    },
+    {
+      "ay": 6,
+      "gun": 28,
+      "olay": "Sokullu Mehmed Paşa sadrazam oldu (1565)",
+      "order": 406
+    },
+    {
+      "ay": 11,
+      "gun": 1,
+      "olay": "Latin harflerinin kabûlü (1928)",
+      "order": 662
+    },
+    {
+      "ay": 6,
+      "gun": 28,
+      "olay": "Kara Kuvvetleri Günü",
+      "order": 407
+    },
+    {
+      "ay": 11,
+      "gun": 2,
+      "olay": "İttihatçıların Türkiye'den kaçışı (1918)",
+      "order": 663
+    },
+    {
+      "ay": 3,
+      "gun": 11,
+      "olay": "Japonya'da 9.0 büyüklüğünde deprem oldu (2011)",
+      "order": 152
+    },
+    {
+      "ay": 6,
+      "gun": 28,
+      "olay": "Kocaeli'nin kurtuluşu (1921)",
+      "order": 408
+    },
+    {
+      "ay": 3,
+      "gun": 12,
+      "olay": "Erzurum'un kurtuluşu (1918)",
+      "order": 154
+    },
+    {
+      "ay": 6,
+      "gun": 30,
+      "olay": "Sultan İkinci Mahmud'un vefâtı (1839)",
+      "order": 410
+    },
+    {
+      "ay": 11,
+      "gun": 4,
+      "olay": "Sofya'nın fethi (1388)",
+      "order": 666
+    },
+    {
+      "ay": 3,
+      "gun": 13,
+      "olay": "Bedir Gazâsı (624)",
+      "order": 155
+    },
+    {
+      "ay": 6,
+      "gun": 30,
+      "olay": "Himâye-i Etfâl Cemiyeti (Çocuk Esirgeme Kurumu)'nin kuruluşu (1921)",
+      "order": 412
+    },
+    {
+      "ay": 3,
+      "gun": 13,
+      "olay": "Rûmî takvim kullanılmaya başlandı (1840)",
+      "order": 157
+    },
+    {
+      "ay": 7,
+      "gun": 1,
+      "olay": "Kabotaj ve Denizcilik Bayramı",
+      "order": 414
+    },
+    {
+      "ay": 11,
+      "gun": 6,
+      "olay": "(GAP)'ın Kuruluşu (1989).",
+      "order": 670
+    },
+    {
+      "ay": 7,
+      "gun": 1,
+      "olay": "Kandilli Rasathânesi kuruldu (1911)",
+      "order": 416
+    },
+    {
+      "ay": 3,
+      "gun": 15,
+      "olay": "(Çanakkale'de) Zafer Haftası",
+      "order": 161
+    },
+    {
+      "ay": 3,
+      "gun": 15,
+      "olay": "Kırlangıçların gelme zamanı",
+      "order": 162
+    },
+    {
+      "ay": 7,
+      "gun": 3,
+      "olay": "Fatih Sultan Mehmed Köprüsü açıldı (1988)",
+      "order": 418
+    },
+    {
+      "ay": 11,
+      "gun": 9,
+      "olay": "Erzurum Müdâfaası (1877)",
+      "order": 674
+    },
+    {
+      "ay": 7,
+      "gun": 3,
+      "olay": "Sultan Reşad Han'ın vefatı (1918)",
+      "order": 419
+    },
+    {
+      "ay": 11,
+      "gun": 9,
+      "olay": "Çiğ düşme mevsimi",
+      "order": 675
+    },
+    {
+      "ay": 7,
+      "gun": 3,
+      "olay": "Sam rüzgârlarının başlangıcı",
+      "order": 420
+    },
+    {
+      "ay": 11,
+      "gun": 9,
+      "olay": "Kasım fırtınaları",
+      "order": 676
+    },
+    {
+      "ay": 7,
+      "gun": 4,
+      "olay": "Sultan Vahîdüddin tahta çıktı (1918)",
+      "order": 421
+    },
+    {
+      "ay": 11,
+      "gun": 9,
+      "olay": "Dünya Çocuk Kitapları Haftası",
+      "order": 677
+    },
+    {
+      "ay": 7,
+      "gun": 4,
+      "olay": "Barbaros Hayreddin Paşa'nın vefâtı (1546)",
+      "order": 422
+    },
+    {
+      "ay": 11,
+      "gun": 10,
+      "olay": "Atatürk'ün ölüm günü (1938) ve Atatürk Haftası (10-16 Kasım)",
+      "order": 678
+    },
+    {
+      "ay": 3,
+      "gun": 17,
+      "olay": "Berdül-acûz (Kocakarı soğuğu) sonu",
+      "order": 167
+    },
+    {
+      "ay": 7,
+      "gun": 4,
+      "olay": "Cihan Pehlivanı Koca Yusuf'un vefâtı (1898)",
+      "order": 423
+    },
+    {
+      "ay": 11,
+      "gun": 10,
+      "olay": "I. Varna Zaferi (1444)",
+      "order": 679
+    },
+    {
+      "ay": 7,
+      "gun": 4,
+      "olay": "ABD'nin kuruluşu (1776)",
+      "order": 424
+    },
+    {
+      "ay": 11,
+      "gun": 10,
+      "olay": "Kırklareli'nin kurtuluşu (1922)",
+      "order": 680
+    },
+    {
+      "ay": 3,
+      "gun": 17,
+      "olay": "Yaşlılara Saygı Haftası (18-24 Mart)",
+      "order": 169
+    },
+    {
+      "ay": 7,
+      "gun": 5,
+      "olay": "Fransa'nın Cezayir'i işgali (1830)",
+      "order": 425
+    },
+    {
+      "ay": 11,
+      "gun": 11,
+      "olay": "I. Dünya Harbi'ne girişimiz (1914) ve harbin sonu (1918)",
+      "order": 681
+    },
+    {
+      "ay": 7,
+      "gun": 5,
+      "olay": "Cezayir'in istiklâli (1962)",
+      "order": 426
+    },
+    {
+      "ay": 11,
+      "gun": 11,
+      "olay": "Pastırma yazı başlangıcı",
+      "order": 682
+    },
+    {
+      "ay": 7,
+      "gun": 5,
+      "olay": "Büyük İstanbul Yangını (1756)",
+      "order": 427
+    },
+    {
+      "ay": 7,
+      "gun": 6,
+      "olay": "Hicaz'ın Osmanlı topraklarına katılması ve Mukaddes Emânetler'in Yavuz Sultan Selim Han'a teslimi (1517)",
+      "order": 428
+    },
+    {
+      "ay": 11,
+      "gun": 13,
+      "olay": "İstanbul'un İtilaf Devletleri tarafından işgal edilmesi (1918)",
+      "order": 684
+    },
+    {
+      "ay": 7,
+      "gun": 7,
+      "olay": "Yeşilköy'de İlk Havacılık Okulu (Tayyâre Mektebi) açıldı (1912)",
+      "order": 429
+    },
+    {
+      "ay": 11,
+      "gun": 13,
+      "olay": "Tekirdağ'ın kurtuluşu (1922)",
+      "order": 685
+    },
+    {
+      "ay": 11,
+      "gun": 14,
+      "olay": "Birinci Dünya Harbi'nde Cihâd-ı Ekber îlânı (1914)",
+      "order": 686
+    },
+    {
+      "ay": 3,
+      "gun": 19,
+      "olay": "Osmanlı Meclis-i Mebûsânı'nın açılması (1877)",
+      "order": 175
+    },
+    {
+      "ay": 7,
+      "gun": 8,
+      "olay": "Bevârih rüzgârlarının sonu",
+      "order": 431
+    },
+    {
+      "ay": 11,
+      "gun": 14,
+      "olay": "Alemdar Mustafa Paşa'nın vefâtı (1808)",
+      "order": 687
+    },
+    {
+      "ay": 3,
+      "gun": 20,
+      "olay": "Hamsîn'in sonu",
+      "order": 176
+    },
+    {
+      "ay": 11,
+      "gun": 14,
+      "olay": "Iğdır'ın Kurtuluşu (1920)",
+      "order": 688
+    },
+    {
+      "ay": 3,
+      "gun": 20,
+      "olay": "Orman Haftası (21-28 Mart)",
+      "order": 177
+    },
+    {
+      "ay": 7,
+      "gun": 10,
+      "olay": "İstanbul zelzelesi (1894)",
+      "order": 433
+    },
+    {
+      "ay": 3,
+      "gun": 21,
+      "olay": "Nevruz (İlkbahar başlangıcı)",
+      "order": 178
+    },
+    {
+      "ay": 7,
+      "gun": 11,
+      "olay": "Çarkdönümü fırtınası",
+      "order": 434
+    },
+    {
+      "ay": 11,
+      "gun": 15,
+      "olay": "Güney rüzgârlarının esmeye başlaması",
+      "order": 690
+    },
+    {
+      "ay": 7,
+      "gun": 11,
+      "olay": "Mısır'ın İngiltere tarafından işgâli (1882)",
+      "order": 435
+    },
+    {
+      "ay": 11,
+      "gun": 16,
+      "olay": "UNESCO'nun kuruluşu (1946)",
+      "order": 691
+    },
+    {
+      "ay": 7,
+      "gun": 11,
+      "olay": "Srebrenitsa Katliamı (1995)",
+      "order": 436
+    },
+    {
+      "ay": 7,
+      "gun": 1,
+      "olay": "Sultan Abdülmecid'in cülûsu (1839)",
+      "order": 2
+    },
+    {
+      "ay": 4,
+      "gun": 6,
+      "olay": "Kırlangıç fırtınası",
+      "order": 217
+    },
+    {
+      "ay": 12,
+      "gun": 6,
+      "olay": "Fransa kralının Kânûnî'den yardım istemesi (1525)",
+      "order": 729
+    },
+    {
+      "ay": 4,
+      "gun": 6,
+      "olay": "Anadolu Ajansı'nın kuruluşu (1920)",
+      "order": 218
+    },
+    {
+      "ay": 4,
+      "gun": 7,
+      "olay": "Birinci Abdülhamid Han'ın vefatı ve Üçüncü Selim'in tahta çıkışı (1789)",
+      "order": 219
+    },
+    {
+      "ay": 12,
+      "gun": 7,
+      "olay": "Uluslararası Sivil Havacılık Günü",
+      "order": 731
+    },
+    {
+      "ay": 12,
+      "gun": 8,
+      "olay": "ABD ve İngiltere'nin Japonya'ya harp ilânı (1941)",
+      "order": 732
+    },
+    {
+      "ay": 4,
+      "gun": 8,
+      "olay": "Koca Râgıp Paşa'nın vefâtı (1763)",
+      "order": 221
+    },
+    {
+      "ay": 12,
+      "gun": 8,
+      "olay": "Yaprak dökümü sonları",
+      "order": 733
+    },
+    {
+      "ay": 4,
+      "gun": 8,
+      "olay": "Şer'iyye mahkemelerinin lağvedilmesi (1924)",
+      "order": 224
+    },
+    {
+      "ay": 8,
+      "gun": 4,
+      "olay": "İngiltere'nin Almanya'ya harp ilânı (1914)",
+      "order": 480
+    },
+    {
+      "ay": 12,
+      "gun": 10,
+      "olay": "İnsan Hakları Haftası",
+      "order": 736
+    },
+    {
+      "ay": 4,
+      "gun": 9,
+      "olay": "Mimar Sinan'ın vefâtı (1588)",
+      "order": 225
+    },
+    {
+      "ay": 12,
+      "gun": 11,
+      "olay": "Rusların Çeçenistan'a girmesi (1994)",
+      "order": 737
+    },
+    {
+      "ay": 4,
+      "gun": 9,
+      "olay": "Mora Zaferi (1770)",
+      "order": 226
+    },
+    {
+      "ay": 8,
+      "gun": 6,
+      "olay": "Magosa'nın fethi (1571)",
+      "order": 482
+    },
+    {
+      "ay": 12,
+      "gun": 12,
+      "olay": "Yaprak dökümü sonu",
+      "order": 738
+    },
+    {
+      "ay": 4,
+      "gun": 10,
+      "olay": "Emniyet Teşkilatı'nın (Zaptiye Müşiriyeti) kuruluşu (1845)",
+      "order": 228
+    },
+    {
+      "ay": 8,
+      "gun": 7,
+      "olay": "Kıbrıs fatihi Lala Mustafa Paşa'nın vefâtı (1580)",
+      "order": 484
+    },
+    {
+      "ay": 12,
+      "gun": 13,
+      "olay": "Sultan Birinci Mahmud'un vefâtı ve Üçüncü Osman'ın tahta çıkışı (1754)",
+      "order": 740
+    },
+    {
+      "ay": 8,
+      "gun": 8,
+      "olay": "Sultan Dördüncü Mehmed Han'ın tahta çıkışı (1648) Bitlis'in kurtuluşu (1918)",
+      "order": 485
+    },
+    {
+      "ay": 12,
+      "gun": 13,
+      "olay": "Türkiye'nin Gümrük Birliği'ne katılması (1995)",
+      "order": 741
+    },
+    {
+      "ay": 4,
+      "gun": 10,
+      "olay": "Fırtına",
+      "order": 230
+    },
+    {
+      "ay": 4,
+      "gun": 11,
+      "olay": "Osmanlı Meclis-i Meb'ûsanı'nın dağılması (1920)",
+      "order": 231
+    },
+    {
+      "ay": 12,
+      "gun": 15,
+      "olay": "Sultan İkinci Selim Han'ın vefâtı (1574)",
+      "order": 743
+    },
+    {
+      "ay": 4,
+      "gun": 11,
+      "olay": "Yağmurlar",
+      "order": 232
+    },
+    {
+      "ay": 12,
+      "gun": 16,
+      "olay": "Musul'un Cemiyet-i Akvâm (BM) tarafından Irak'a verilmesi (1925)",
+      "order": 744
+    },
+    {
+      "ay": 4,
+      "gun": 11,
+      "olay": "GAP Urfa tüneli açıldı (1995)",
+      "order": 233
+    },
+    {
+      "ay": 12,
+      "gun": 16,
+      "olay": "Kazakistan'ın istiklâli (1991)",
+      "order": 745
+    },
+    {
+      "ay": 4,
+      "gun": 11,
+      "olay": "Şanlıurfa'nın kurtuluşu (1920)",
+      "order": 234
+    },
+    {
+      "ay": 4,
+      "gun": 12,
+      "olay": "İlk uzay mekiği Columbia'nın fırlatılışı (1981)",
+      "order": 235
+    },
+    {
+      "ay": 12,
+      "gun": 18,
+      "olay": "İmâm-ı Gazâlî (rh.)'nin irtihâli (1111",
+      "order": 747
+    },
+    {
+      "ay": 4,
+      "gun": 12,
+      "olay": "Fırtına",
+      "order": 237
+    },
+    {
+      "ay": 4,
+      "gun": 12,
+      "olay": "Türkiye internete bağlandı (1993)",
+      "order": 238
+    },
+    {
+      "ay": 12,
+      "gun": 22,
+      "olay": "Sultan Üçüncü Murâd Han'ın tahta çıkışı (1574)",
+      "order": 750
+    },
+    {
+      "ay": 12,
+      "gun": 22,
+      "olay": "Erbaîn (Zemherîr) başlangıcı",
+      "order": 751
+    },
+    {
+      "ay": 4,
+      "gun": 13,
+      "olay": "Muallim Nâci'nin vefâtı (1893)",
+      "order": 240
+    },
+    {
+      "ay": 8,
+      "gun": 18,
+      "olay": "Turnaların gitme zamanı",
+      "order": 496
+    },
+    {
+      "ay": 4,
+      "gun": 14,
+      "olay": "Piyale Paşa'nın Sakız Adası'nı fethi (1566)",
+      "order": 241
+    },
+    {
+      "ay": 12,
+      "gun": 23,
+      "olay": "Fırtına",
+      "order": 753
+    },
+    {
+      "ay": 4,
+      "gun": 14,
+      "olay": "Hilâl-i Ahmer Cemiyeti'nin (Kızılay) kurulması (1877)",
+      "order": 242
+    },
+    {
+      "ay": 12,
+      "gun": 24,
+      "olay": "Sultan Dördüncü Murad'ın Bağdat'ı fethi (1638)",
+      "order": 754
+    },
+    {
+      "ay": 8,
+      "gun": 20,
+      "olay": "Barbaros'un Nice (Nis) Kalesi'ni fethi (1543)",
+      "order": 499
+    },
+    {
+      "ay": 12,
+      "gun": 24,
+      "olay": "En uzun gecelerin sonu",
+      "order": 755
+    },
+    {
+      "ay": 4,
+      "gun": 15,
+      "olay": "Ağrı'nın kurtuluşu (1918)",
+      "order": 244
+    },
+    {
+      "ay": 12,
+      "gun": 25,
+      "olay": "Merzifonlu Kara Mustafa Paşa'nın îdâmı (1683)",
+      "order": 756
+    },
+    {
+      "ay": 4,
+      "gun": 15,
+      "olay": "Lâle Mevsimi",
+      "order": 245
+    },
+    {
+      "ay": 8,
+      "gun": 21,
+      "olay": "Yaprakların sararması",
+      "order": 501
+    },
+    {
+      "ay": 12,
+      "gun": 25,
+      "olay": "Gaziantep'in kurtuluşu (1921)",
+      "order": 757
+    },
+    {
+      "ay": 4,
+      "gun": 15,
+      "olay": "Turizm Haftası (15-22 Nisan)",
+      "order": 246
+    },
+    {
+      "ay": 12,
+      "gun": 25,
+      "olay": "SSCB dağıldı (1991)",
+      "order": 758
+    },
+    {
+      "ay": 12,
+      "gun": 26,
+      "olay": "Rusların Afganistan'ı işgali (1979)",
+      "order": 759
+    },
+    {
+      "ay": 12,
+      "gun": 26,
+      "olay": "Babürlü Devleti'nin kurucusu Babür Şah vefat etti (1530)",
+      "order": 760
+    },
+    {
+      "ay": 12,
+      "gun": 26,
+      "olay": "Milletlerarası Saat ve Takvim'in kabulü (1925)",
+      "order": 761
+    },
+    {
+      "ay": 12,
+      "gun": 27,
+      "olay": "Ayasofya'nın yapılışı (M.537)",
+      "order": 762
+    },
+    {
+      "ay": 4,
+      "gun": 18,
+      "olay": "Hz. Muâviye (r.a.)'ın vefâtı (680)",
+      "order": 251
+    },
+    {
+      "ay": 2,
+      "gun": 18,
+      "olay": "Türkiye NATO'ya girdi (1952)",
+      "order": 102
+    },
+    {
+      "ay": 6,
+      "gun": 27,
+      "olay": "Yaprak aşısı zamanı",
+      "order": 2400
+    },
+    {
+      "ay": 6,
+      "gun": 27,
+      "olay": "Hayber'in Fethi (628)",
+      "order": 1
+    },
+    {
+      "ay": 2,
+      "gun": 17,
+      "olay": "Fırtına",
+      "order": 1837
+    },
+    {
+      "ay": 10,
+      "gun": 9,
+      "olay": "Dünya Posta Günü",
+      "order": 1772
+    },
+    {
+      "ay": 4,
+      "gun": 24,
+      "olay": "Çiçek Fırtınası",
+      "order": 266
+    },
+    {
+      "ay": 1,
+      "gun": 25,
+      "olay": "Sırpsındığı Zaferi (1364)",
+      "order": 51
+    },
+    {
+      "ay": 1,
+      "gun": 25,
+      "olay": "Şiddetli soğuklar",
+      "order": 52
+    },
+    {
+      "ay": 1,
+      "gun": 25,
+      "olay": "Cüzzam Haftası (25-31 Ocak)",
+      "order": 53
+    },
+    {
+      "ay": 5,
+      "gun": 14,
+      "olay": "Cerbe Deniz Zaferi (1560)",
+      "order": 309
+    },
+    {
+      "ay": 1,
+      "gun": 26,
+      "olay": "Büyük tarihçi ve muhaddis İbn-i Asâkir (rh.)'in vefâtı (1176)",
+      "order": 54
+    },
+    {
+      "ay": 9,
+      "gun": 17,
+      "olay": "Adnan Menderes'in idamı (1961)",
+      "order": 566
+    },
+    {
+      "ay": 9,
+      "gun": 17,
+      "olay": "Havaların soğumaya başlaması",
+      "order": 567
+    },
+    {
+      "ay": 5,
+      "gun": 14,
+      "olay": "Dünya Çiftçiler Günü",
+      "order": 312
+    },
+    {
+      "ay": 9,
+      "gun": 17,
+      "olay": "Ruslar'ın Polonya'yı işgâli (1939)",
+      "order": 568
+    },
+    {
+      "ay": 5,
+      "gun": 15,
+      "olay": "Yunanlıların İzmir'i işgâli (1919)",
+      "order": 313
+    },
+    {
+      "ay": 9,
+      "gun": 17,
+      "olay": "Miryokefalon Zaferi (1176)",
+      "order": 569
+    },
+    {
+      "ay": 1,
+      "gun": 28,
+      "olay": "Yavuz Sultan Selim Han'ın Mısır'ı zaptı (1517)",
+      "order": 58
+    },
+    {
+      "ay": 5,
+      "gun": 15,
+      "olay": "Hava Şehitlerini Anma Günü",
+      "order": 314
+    },
+    {
+      "ay": 9,
+      "gun": 19,
+      "olay": "En son vefât eden sahâbe Ebü't-Tufeyl Âmir bin Vâsile (r.a.)'nin irtihâli (718)",
+      "order": 571
+    },
+    {
+      "ay": 1,
+      "gun": 29,
+      "olay": "Türkçe olarak Ezân ilk defa Fâtih Câmii'nde okutturuldu (1932)",
+      "order": 60
+    },
+    {
+      "ay": 5,
+      "gun": 16,
+      "olay": "Sultan Altıncı Mehmed Vahîdüddin Han'ın İtalya'da vefâtı (1926)",
+      "order": 316
+    },
+    {
+      "ay": 9,
+      "gun": 19,
+      "olay": "İstanbul Rasathanesi kuruldu (1576)",
+      "order": 572
+    },
+    {
+      "ay": 1,
+      "gun": 29,
+      "olay": "Şiddetli soğuklar",
+      "order": 61
+    },
+    {
+      "ay": 5,
+      "gun": 16,
+      "olay": "Filizkıran fırtınası",
+      "order": 317
+    },
+    {
+      "ay": 9,
+      "gun": 19,
+      "olay": "Güz yağmurları",
+      "order": 573
+    },
+    {
+      "ay": 9,
+      "gun": 19,
+      "olay": "Gaziler Günü",
+      "order": 574
+    },
+    {
+      "ay": 5,
+      "gun": 18,
+      "olay": "Müzeler Haftası (18-24 Mayıs)",
+      "order": 319
+    },
+    {
+      "ay": 1,
+      "gun": 30,
+      "olay": "İlk resmî TV yayınının Ankara'da yapılması (1967)",
+      "order": 64
+    },
+    {
+      "ay": 5,
+      "gun": 18,
+      "olay": "Ziya Paşa'nın vefâtı (1880)",
+      "order": 320
+    },
+    {
+      "ay": 9,
+      "gun": 21,
+      "olay": "Askerlerimizin Güney Kore'ye gidişi (1950)",
+      "order": 577
+    },
+    {
+      "ay": 9,
+      "gun": 21,
+      "olay": "Fırtına",
+      "order": 578
+    },
+    {
+      "ay": 1,
+      "gun": 31,
+      "olay": "Hamsîn'in başlangıcı",
+      "order": 67
+    },
+    {
+      "ay": 6,
+      "gun": 30,
+      "olay": "Yaprak fırtınası",
+      "order": 411
+    },
+    {
+      "ay": 3,
+      "gun": 13,
+      "olay": "Selânik'in fethi (1430)",
+      "order": 156
+    },
+    {
+      "ay": 4,
+      "gun": 6,
+      "olay": "Sağlık Haftası (7-13 Nisan)",
+      "order": 222
+    },
+    {
+      "ay": 9,
+      "gun": 8,
+      "olay": "Dünya okuma-yazma günü",
+      "order": 548
+    },
+    {
+      "ay": 10,
+      "gun": 2,
+      "olay": "İşgalci Fransız ve İngilizlerin İstanbul'dan çekilmesi (1923)",
+      "order": 607
+    },
+    {
+      "ay": 1,
+      "gun": 18,
+      "olay": "Fırtına",
+      "order": 37
+    },
+    {
+      "ay": 10,
+      "gun": 6,
+      "olay": "İstanbul'un kurtuluşu (1923)",
+      "order": 1814
+    },
+    {
+      "ay": 4,
+      "gun": 29,
+      "olay": "Ebu’l-Fâruk Süleyman Hilmi TUNAHAN (K.S.) (SİLİSTREVÎ) Hazretlerinin kerîmelerinin damadı Mahmut Sabri Kuriş’in (rh.) irtihâli (2024)",
+      "order": 1
+    },
+    {
+      "ay": 3,
+      "gun": 14,
+      "olay": "Rûmî Yılbaşı (1441)",
+      "order": 158
+    },
+    {
+      "ay": 10,
+      "gun": 9,
+      "olay": "Yaprak Dökümü Fırtınası",
+      "order": 619
+    },
+    {
+      "ay": 5,
+      "gun": 7,
+      "olay": "Yağmurlar",
+      "order": 293
+    },
+    {
+      "ay": 12,
+      "gun": 1,
+      "olay": "Kore'de Kunuri Zaferimiz (1950)",
+      "order": 784
+    },
+    {
+      "ay": 5,
+      "gun": 10,
+      "olay": "Engelliler Haftası (10-16 Mayıs)",
+      "order": 300
+    },
+    {
+      "ay": 6,
+      "gun": 26,
+      "olay": "Türkiye, Birleşmiş Milletler Antlaşmasını imzaladı (1945)",
+      "order": 399
+    },
+    {
+      "ay": 6,
+      "gun": 27,
+      "olay": "25 yıl süren Girit kuşatması başladı (1645)",
+      "order": 1718
+    },
+    {
+      "ay": 6,
+      "gun": 20,
+      "olay": "Hasat mevsimi",
+      "order": 1869
+    },
+    {
+      "ay": 6,
+      "gun": 19,
+      "olay": "300 papazın İznik’te İncilleri dörde indirdiği toplantı (İznik konsili) (325)",
+      "order": 385
+    },
+    {
+      "ay": 6,
+      "gun": 20,
+      "olay": "Nasreddin Hoca (rah.)’nın vefatı (1284)",
+      "order": 392
+    },
+    {
+      "ay": 6,
+      "gun": 17,
+      "olay": "Hazret-i Osman radıyallâhü anh’ın şehâdeti (656)",
+      "order": 381
+    },
+    {
+      "ay": 6,
+      "gun": 16,
+      "olay": "Ezân-ı Muhammedî’nin aslî lafızlarıyla okunmasının TBMM tarafından serbest bırakılması (1950)",
+      "order": 380
+    },
+    {
+      "ay": 6,
+      "gun": 15,
+      "olay": "Ezân-ı Muhammedî’nin ilk okunuşu (622)",
+      "order": 375
+    },
+    {
+      "ay": 6,
+      "gun": 28,
+      "olay": "Yağmurlar",
+      "order": 503
+    },
+    {
+      "ay": 6,
+      "gun": 10,
+      "olay": "Kuzey Karadeniz’de (Kırım) Kefe Kalesi’nin Fethi (1475)",
+      "order": 356
+    },
+    {
+      "ay": 6,
+      "gun": 1,
+      "olay": "Dünya Süt Günü",
+      "order": 328
+    },
+    {
+      "ay": 5,
+      "gun": 31,
+      "olay": "Dünya sigara bırakma günü",
+      "order": 351
+    },
+    {
+      "ay": 5,
+      "gun": 30,
+      "olay": "Anadolu Selçuklu Sultanı Alaeddin Keykubad'ın vefâtı (1236)",
+      "order": 349
+    },
+    {
+      "ay": 5,
+      "gun": 30,
+      "olay": "Sultan Abdülaziz Han’ın hal‘i (1876)",
+      "order": 1868
+    },
+    {
+      "ay": 5,
+      "gun": 30,
+      "olay": "Hızır Bey'in İstanbul'a ilk kâdı oluşu (1453)",
+      "order": 348
+    },
+    {
+      "ay": 5,
+      "gun": 29,
+      "olay": "Sultan Üçüncü Selim Han’ın tahttan indirilmesi, Dördüncü Mustafa’nın cülûsu (1807)",
+      "order": 1341
+    },
+    {
+      "ay": 5,
+      "gun": 29,
+      "olay": "İstanbul’un fethi (1453)",
+      "order": 347
+    },
+    {
+      "ay": 5,
+      "gun": 24,
+      "olay": "Hac’da izdiham (1994)",
+      "order": 1867
+    },
+    {
+      "ay": 5,
+      "gun": 23,
+      "olay": "Çapa zamanı",
+      "order": 1866
+    },
+    {
+      "ay": 5,
+      "gun": 23,
+      "olay": "Büyük Selçuklu Devleti'nin Dandanakan Zaferi (1040)",
+      "order": 330
+    },
+    {
+      "ay": 5,
+      "gun": 22,
+      "olay": "Nene Hatun 98 yaşında vefat etti (1955)",
+      "order": 1865
+    },
+    {
+      "ay": 5,
+      "gun": 22,
+      "olay": "Büyük İstanbul zelzelesi (1766)",
+      "order": 329
+    },
+    {
+      "ay": 5,
+      "gun": 21,
+      "olay": "Ülker fırtınası",
+      "order": 1864
+    },
+    {
+      "ay": 5,
+      "gun": 21,
+      "olay": "Sultan İkinci Bayezid'in tahta çıkışı (1481)",
+      "order": 327
+    },
+    {
+      "ay": 5,
+      "gun": 20,
+      "olay": "Milletlerarası rakam sistemine geçildi (1928)",
+      "order": 326
+    },
+    {
+      "ay": 5,
+      "gun": 19,
+      "olay": "Türk Deniz Kuvvetleri'nin kuruluşu (1081)",
+      "order": 1863
+    },
+    {
+      "ay": 5,
+      "gun": 19,
+      "olay": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+      "order": 323
+    },
+    {
+      "ay": 5,
+      "gun": 13,
+      "olay": "Gül Mevsimi",
+      "order": 322
+    },
+    {
+      "ay": 5,
+      "gun": 18,
+      "olay": "Erzurumlu İbrahim Hakkı Hazretlerinin doğumu (1703)",
+      "order": 321
+    },
+    {
+      "ay": 5,
+      "gun": 17,
+      "olay": "Osmanlı Devleti ile Safevîler arasında Kasr-ı Şirin Muâhedesi’nin akdi (1639)",
+      "order": 1862
+    },
+    {
+      "ay": 5,
+      "gun": 17,
+      "olay": "İmâm Muhammed’in (rh.) vefatı (805)",
+      "order": 318
+    },
+    {
+      "ay": 5,
+      "gun": 16,
+      "olay": "Cezâyir’in Osmanlıların hâkimiyetine girmesi (1519)",
+      "order": 1861
+    },
+    {
+      "ay": 5,
+      "gun": 15,
+      "olay": "Nureddin Zengî’nin vefatı (1174)",
+      "order": 1860
+    },
+    {
+      "ay": 5,
+      "gun": 15,
+      "olay": "Fâtih Sultan Mehmed Han tarafından Atina’nın fethedilmesi (1458)",
+      "order": 315
+    },
+    {
+      "ay": 5,
+      "gun": 14,
+      "olay": "Eczacılar Günü",
+      "order": 311
+    },
+    {
+      "ay": 5,
+      "gun": 13,
+      "olay": "Soma maden faciası (2014)",
+      "order": 307
+    },
+    {
+      "ay": 5,
+      "gun": 12,
+      "olay": "Mekteb-i Sultânî (Galatasaray Lisesi)’nin kuruluşu (1868)",
+      "order": 303
+    },
+    {
+      "ay": 5,
+      "gun": 11,
+      "olay": "Ermeni çetelerin Malazgirt ve civarında katliam yapması (1916)",
+      "order": 1859
+    },
+    {
+      "ay": 5,
+      "gun": 8,
+      "olay": "Vakıflar Haftası (Mayıs'ın 2. haftası)",
+      "order": 1858
+    },
+    {
+      "ay": 5,
+      "gun": 8,
+      "olay": "İkinci Dünya Savaşı'nın Avrupa'da sona ermesi (1945)",
+      "order": 294
+    },
+    {
+      "ay": 5,
+      "gun": 6,
+      "olay": "Hızır günleri ve yaz başlangıcı",
+      "order": 291
+    },
+    {
+      "ay": 5,
+      "gun": 6,
+      "olay": "İmâm-ı Âzam Ebû Hanîfe’nin (rah.) vefatı (767)",
+      "order": 289
+    },
+    {
+      "ay": 5,
+      "gun": 5,
+      "olay": "Avrupa Konseyi'nin kuruluşu (1949)",
+      "order": 1857
+    },
+    {
+      "ay": 5,
+      "gun": 5,
+      "olay": "Kasım (kış) günlerinin sonu",
+      "order": 288
+    },
+    {
+      "ay": 5,
+      "gun": 4,
+      "olay": "Sultan Çelebi Mehmed’in vefatı (1421)",
+      "order": 1856
+    },
+    {
+      "ay": 5,
+      "gun": 4,
+      "olay": "Hâlid bin Zeyd Ebû Eyyûb el-Ensârî’nin (r.a.) vefatı (672)",
+      "order": 285
+    },
+    {
+      "ay": 5,
+      "gun": 2,
+      "olay": "Hz. Ömer (r.a.) zamanında İslâm ordusunun Kudüs’ü fethi (636)",
+      "order": 282
+    },
+    {
+      "ay": 5,
+      "gun": 5,
+      "olay": "Trafik Haftası",
+      "order": 1855
+    },
+    {
+      "ay": 5,
+      "gun": 1,
+      "olay": "Emek ve Dayanışma Günü",
+      "order": 281
+    },
+    {
+      "ay": 4,
+      "gun": 29,
+      "olay": "Kûtü’l-Amâre Zaferi (1916)",
+      "order": 1854
+    },
+    {
+      "ay": 4,
+      "gun": 28,
+      "olay": "Serçelerin yavrulama zamanı",
+      "order": 1853
+    },
+    {
+      "ay": 4,
+      "gun": 28,
+      "olay": "Çanakkale Savaşı'nda Kirte Zaferi (1915)",
+      "order": 276
+    },
+    {
+      "ay": 4,
+      "gun": 27,
+      "olay": "Sultan İkinci Abdülhamid Han’ın hal‘i, Sultan Beşinci Mehmed Reşad’ın tahta çıkışı (1909)",
+      "order": 1852
+    },
+    {
+      "ay": 4,
+      "gun": 27,
+      "olay": "Kânûnî Sultan Süleyman Han'ın doğumu (1495)",
+      "order": 275
+    },
+    {
+      "ay": 4,
+      "gun": 26,
+      "olay": "İlk defa bir Osmanlı pilotu Yeşilköy üzerinde uçtu (1912)",
+      "order": 1851
+    },
+    {
+      "ay": 4,
+      "gun": 26,
+      "olay": "İlk kız muallim (öğretmen) mektebi olan Dârü’l-Muallimât’ın Sultan Abdülaziz devrinde açılması (1870)",
+      "order": 273
+    },
+    {
+      "ay": 4,
+      "gun": 22,
+      "olay": "Fâtih Sultan Mehmed Han’ın donanmayı Haliç’e indirmesi (1453)",
+      "order": 260
+    },
+    {
+      "ay": 4,
+      "gun": 21,
+      "olay": "Fırtına",
+      "order": 259
+    },
+    {
+      "ay": 4,
+      "gun": 21,
+      "olay": "Ebeler Haftası (21-28 Nisan)",
+      "order": 258
+    },
+    {
+      "ay": 4,
+      "gun": 20,
+      "olay": "Sitte-i Sevr’in evveli",
+      "order": 1850
+    },
+    {
+      "ay": 5,
+      "gun": 1,
+      "olay": "Manisa'nın fethi (1390)",
+      "order": 280
+    },
+    {
+      "ay": 4,
+      "gun": 20,
+      "olay": "Peygamber Efendimiz (s.a.v.)’in [Milâdî takvime göre] kâinâtı teşrîfi (571)",
+      "order": 256
+    },
+    {
+      "ay": 4,
+      "gun": 19,
+      "olay": "Kars’ın Ermeniler tarafından işgali (1919)",
+      "order": 254
+    },
+    {
+      "ay": 4,
+      "gun": 18,
+      "olay": "Osmanlı - Yunan Harbi’nin başlaması (1897)",
+      "order": 252
+    },
+    {
+      "ay": 4,
+      "gun": 17,
+      "olay": "Suriye, Fransa’dan istiklâlini ilan etti (1946)",
+      "order": 250
+    },
+    {
+      "ay": 4,
+      "gun": 17,
+      "olay": "Fâtih Sultan Mehmed Han’ın İstanbul Adalarını fethi (1453)",
+      "order": 249
+    },
+    {
+      "ay": 4,
+      "gun": 16,
+      "olay": "Şeyhülislâm İbn-i Kemâl Paşa (rah.)’ın vefatı (1534)",
+      "order": 247
+    },
+    {
+      "ay": 4,
+      "gun": 15,
+      "olay": "Mina’da çadır yangını, 343 kişi vefat etti (1997)",
+      "order": 1849
+    },
+    {
+      "ay": 4,
+      "gun": 13,
+      "olay": "Şâir Nâbi'nin vefâtı (1712)",
+      "order": 239
+    },
+    {
+      "ay": 4,
+      "gun": 13,
+      "olay": "31 Mart Vak'ası (1909)",
+      "order": 229
+    },
+    {
+      "ay": 4,
+      "gun": 12,
+      "olay": "Sovyetler Birliği uzaya ilk defa insan gönderdi (1961)",
+      "order": 236
+    },
+    {
+      "ay": 4,
+      "gun": 9,
+      "olay": "Hac’da izdiham, 118 kişi vefat etti (1998)",
+      "order": 1848
+    },
+    {
+      "ay": 4,
+      "gun": 7,
+      "olay": "Dünya Sağlık Günü",
+      "order": 1847
+    },
+    {
+      "ay": 4,
+      "gun": 7,
+      "olay": "Fas'ın istiklâli (1956)",
+      "order": 220
+    },
+    {
+      "ay": 4,
+      "gun": 5,
+      "olay": "Fatih Sultan Mehmed Han'ın donanması İstanbul sularına girdi (1453)",
+      "order": 214
+    },
+    {
+      "ay": 3,
+      "gun": 15,
+      "olay": "Suriye'de iç savaş başladı 2011",
+      "order": 1842
+    },
+    {
+      "ay": 2,
+      "gun": 6,
+      "olay": "7.7 ve 7.6 büyüklüğünde Kahramanmaraş merkezli zelzeleler (2023)",
+      "order": 1846
+    },
+    {
+      "ay": 3,
+      "gun": 17,
+      "olay": "Erdel'in fethi (1552)",
+      "order": 168
+    },
+    {
+      "ay": 3,
+      "gun": 31,
+      "olay": "Hudeybiye Antlaşması (628) (Müslümanlarla Mekkeli Müşrikler arasında yapılan barış antlaşması)",
+      "order": 203
+    },
+    {
+      "ay": 3,
+      "gun": 30,
+      "olay": "Fâtih Sultan Mehmed Han’ın doğumu (1429)",
+      "order": 202
+    },
+    {
+      "ay": 3,
+      "gun": 25,
+      "olay": "Avrupa Topluluğu'nun (AT) kuruluşu (1957)",
+      "order": 191
+    },
+    {
+      "ay": 3,
+      "gun": 25,
+      "olay": "Evliya Çelebi'nin doğumu (1611)",
+      "order": 190
+    },
+    {
+      "ay": 3,
+      "gun": 24,
+      "olay": "Halîfe Hârun Reşid'in vefâtı (809)",
+      "order": 189
+    },
+    {
+      "ay": 3,
+      "gun": 24,
+      "olay": "Emir Timur'un Diyarbakır'ı alması (1394)",
+      "order": 1844
+    },
+    {
+      "ay": 3,
+      "gun": 24,
+      "olay": "Dünya Tüberküloz (Verem) Günü",
+      "order": 1845
+    },
+    {
+      "ay": 3,
+      "gun": 24,
+      "olay": "Hendek Harbi (627)",
+      "order": 188
+    },
+    {
+      "ay": 3,
+      "gun": 21,
+      "olay": "Osmanlı Devleti ile İran arasında Ferhat Paşa Antlaşması imzalandı (1590)",
+      "order": 180
+    },
+    {
+      "ay": 3,
+      "gun": 20,
+      "olay": "ABD ordusu Bağdat’a hava bombardımanına başladı (2003)",
+      "order": 1843
+    },
+    {
+      "ay": 3,
+      "gun": 19,
+      "olay": "Peygamberimizin (s.a.v.), annesinin Ebvâ köyündeki kabrini ziyareti (628)",
+      "order": 174
+    },
+    {
+      "ay": 3,
+      "gun": 18,
+      "olay": "Osmanlı Meclis-i Mebusanı'nın İstanbul'daki son toplantısı (1920)",
+      "order": 172
+    },
+    {
+      "ay": 3,
+      "gun": 18,
+      "olay": "Kırlangıç Fırtınası",
+      "order": 173
+    },
+    {
+      "ay": 3,
+      "gun": 18,
+      "olay": "Çanakkale Deniz Zaferi (1915)",
+      "order": 170
+    },
+    {
+      "ay": 3,
+      "gun": 18,
+      "olay": "Şehitler Günü",
+      "order": 171
+    },
+    {
+      "ay": 3,
+      "gun": 15,
+      "olay": "Dünya Tüketiciler Günü",
+      "order": 163
+    },
+    {
+      "ay": 3,
+      "gun": 12,
+      "olay": "İstiklâl Marşı'nın TBMM'de kabulü (1921)",
+      "order": 153
+    },
+    {
+      "ay": 3,
+      "gun": 11,
+      "olay": "Berdül-acûz’un (Kocakarı soğuğu) başlaması",
+      "order": 151
+    },
+    {
+      "ay": 3,
+      "gun": 10,
+      "olay": "Silsile-i Sâdât’ın dördüncü halkası Câfer-i Sâdık’ın (r.a.) vefatı (765)",
+      "order": 149
+    },
+    {
+      "ay": 3,
+      "gun": 6,
+      "olay": "Resûlullah (s.a.v.) Efendimizin Vedâ Hutbesi’ni îrâdı (632)",
+      "order": 140
+    },
+    {
+      "ay": 8,
+      "gun": 29,
+      "olay": "Mohaç Zaferi (1526)",
+      "order": 521
+    },
+    {
+      "ay": 3,
+      "gun": 4,
+      "olay": "Abdülmecid Efendi'nin sürgün edilişi (1924)",
+      "order": 1841
+    },
+    {
+      "ay": 3,
+      "gun": 4,
+      "olay": "Sultan Salâhaddîn-i Eyyûbî'nin vefâtı (1193)",
+      "order": 136
+    },
+    {
+      "ay": 2,
+      "gun": 29,
+      "olay": "Osmanlı Devleti’nin son Cuma selamlık merâsimi yapıldı (1924)",
+      "order": 1840
+    },
+    {
+      "ay": 2,
+      "gun": 28,
+      "olay": "Bursa Zelzelesi oldu (1855)",
+      "order": 1839
+    },
+    {
+      "ay": 2,
+      "gun": 22,
+      "olay": "Vergi Haftası (Şubat’ın son haftası)",
+      "order": 113
+    },
+    {
+      "ay": 2,
+      "gun": 20,
+      "olay": "1. Cemre'nin havaya düşmesi",
+      "order": 106
+    },
+    {
+      "ay": 2,
+      "gun": 20,
+      "olay": "Mısır'da Melik Müeyyed Camii'nde hutbe, Yavuz Sultan Selim adına okundu (1517)",
+      "order": 105
+    },
+    {
+      "ay": 2,
+      "gun": 19,
+      "olay": "Emir Timur'un vefâtı (1405)",
+      "order": 1838
+    },
+    {
+      "ay": 2,
+      "gun": 19,
+      "olay": "İbrahim bin Edhem (k.s.) hazretlerinin vefâtı (779)",
+      "order": 104
+    },
+    {
+      "ay": 2,
+      "gun": 17,
+      "olay": "Kosova'nın istiklâl îlânı (2008)",
+      "order": 100
+    },
+    {
+      "ay": 2,
+      "gun": 17,
+      "olay": "İmâm Şâmil’in (rh.) Medine-i Münevvere’de vefatı (1871)",
+      "order": 99
+    },
+    {
+      "ay": 2,
+      "gun": 16,
+      "olay": "Türkiye- Amerika telefon hattı açıldı (1953)",
+      "order": 1836
+    },
+    {
+      "ay": 2,
+      "gun": 16,
+      "olay": "Naylonun ABD’de icadı (1937)",
+      "order": 98
+    },
+    {
+      "ay": 2,
+      "gun": 11,
+      "olay": "Şiddetli soğuklar",
+      "order": 89
+    },
+    {
+      "ay": 2,
+      "gun": 11,
+      "olay": "Fırtına",
+      "order": 1835
+    },
+    {
+      "ay": 2,
+      "gun": 11,
+      "olay": "ABD-İngiltere ve Rusya’nın Yalta Konferansı (4–11 Şubat 1945)",
+      "order": 88
+    },
+    {
+      "ay": 2,
+      "gun": 9,
+      "olay": "Boğaziçi dondu (1621)",
+      "order": 1834
+    },
+    {
+      "ay": 2,
+      "gun": 9,
+      "olay": "Sultan İbrahim'in tahta çıkışı (1640)",
+      "order": 1833
+    },
+    {
+      "ay": 2,
+      "gun": 9,
+      "olay": "Halîfe Ömer bin Abdülaziz (k.s.) Hz.nin vefâtı (720)",
+      "order": 86
+    },
+    {
+      "ay": 2,
+      "gun": 8,
+      "olay": "Antep'e “Gâzî” ünvânının verilmesi (1921)",
+      "order": 1832
+    },
+    {
+      "ay": 2,
+      "gun": 8,
+      "olay": "Yeni Câmi ibâdete açıldı (1664)",
+      "order": 85
+    },
+    {
+      "ay": 2,
+      "gun": 6,
+      "olay": "Sultan İkinci Ahmed Han’ın vefatı, Sultan İkinci Mustafa Han’ın tahta çıkışı (1695)",
+      "order": 80
+    },
+    {
+      "ay": 2,
+      "gun": 2,
+      "olay": "Japonya Zelzelesi (Yüz binden fazla ölü / 1703)",
+      "order": 69
+    },
+    {
+      "ay": 1,
+      "gun": 31,
+      "olay": "Osmanlı'da matbaanın kuruluşu; Vânî Mehmed Efendinin Sıhâh-ı Cevherî Tercümesi (Vankulu) lügatının basılması (1729)",
+      "order": 65
+    },
+    {
+      "ay": 1,
+      "gun": 28,
+      "olay": "Mîsâk-ı Millî’nin kabulü (1920)",
+      "order": 1831
+    },
+    {
+      "ay": 1,
+      "gun": 28,
+      "olay": "Ayandon Fırtınası",
+      "order": 1830
+    },
+    {
+      "ay": 1,
+      "gun": 28,
+      "olay": "Mülkiye Mektebi'nin açılışı (1854)",
+      "order": 59
+    },
+    {
+      "ay": 9,
+      "gun": 21,
+      "olay": "Dünya Alzheimer Günü",
+      "order": 579
+    },
+    {
+      "ay": 1,
+      "gun": 27,
+      "olay": "Üçüncü Mehmed Han’ın tahta çıkışı (1595)",
+      "order": 57
+    },
+    {
+      "ay": 1,
+      "gun": 27,
+      "olay": "Şâir Nef'î'nin vefâtı (1635)",
+      "order": 1829
+    },
+    {
+      "ay": 1,
+      "gun": 16,
+      "olay": "Sultan Üçüncü Murad Han'ın vefâtı (1595)",
+      "order": 32
+    },
+    {
+      "ay": 1,
+      "gun": 27,
+      "olay": "Osmanli Devleti'nin kuruluşu (1299)",
+      "order": 56
+    },
+    {
+      "ay": 1,
+      "gun": 26,
+      "olay": "Televizyonun îcâdı (1926)",
+      "order": 1828
+    },
+    {
+      "ay": 1,
+      "gun": 26,
+      "olay": "Karlofça Antlaşması (1699)",
+      "order": 55
+    },
+    {
+      "ay": 1,
+      "gun": 23,
+      "olay": "Yavuz Sultan Selim Han’ın vezirlerinden Sinan Paşa'nın şehit edilmesi (1517)",
+      "order": 47
+    },
+    {
+      "ay": 1,
+      "gun": 22,
+      "olay": "Harbiye Mektebi’nde Baytar sınıfının açılışı (1842)",
+      "order": 1827
+    },
+    {
+      "ay": 1,
+      "gun": 22,
+      "olay": "Yavuz Sultan Selim Han'ın Ridâniye Zaferi (1517)",
+      "order": 46
+    },
+    {
+      "ay": 1,
+      "gun": 17,
+      "olay": "BM Güvenlik Konseyi ilk toplantısını yaptı (1946)",
+      "order": 35
+    },
+    {
+      "ay": 1,
+      "gun": 17,
+      "olay": "(Irak) Körfez Savaşı başladı (1991)",
+      "order": 1826
+    },
+    {
+      "ay": 1,
+      "gun": 16,
+      "olay": "İran'da Şahlığın yıkılması (1979)",
+      "order": 33
+    },
+    {
+      "ay": 1,
+      "gun": 16,
+      "olay": "Fırtına",
+      "order": 1824
+    },
+    {
+      "ay": 1,
+      "gun": 16,
+      "olay": "Marmara Üniversitesi’nin Hamidiye Ticaret Mekteb-i Âlisi adı altında kuruluşu (1883)",
+      "order": 1825
+    },
+    {
+      "ay": 1,
+      "gun": 15,
+      "olay": "British Museum’un halka açık ilk müze olarak Londra’da Montegu Evi’nde açılışı (1759)",
+      "order": 1823
+    },
+    {
+      "ay": 1,
+      "gun": 14,
+      "olay": "İlk telefon hattı, İngiliz Sarayı’na çekildi (1878)",
+      "order": 1822
+    },
+    {
+      "ay": 1,
+      "gun": 14,
+      "olay": "Aksaray-Topkapı tramvay hattı (2.600 m) hizmete girdi (1873)",
+      "order": 28
+    },
+    {
+      "ay": 1,
+      "gun": 13,
+      "olay": "Medîne-i Münevvere Müdâfii Fahreddin Paşa teslim oldu",
+      "order": 26
+    },
+    {
+      "ay": 1,
+      "gun": 12,
+      "olay": "Hac’da izdiham, 362 kişi vefat etti (2006)",
+      "order": 1821
+    },
+    {
+      "ay": 1,
+      "gun": 11,
+      "olay": "Diyabet (şeker) hastalığı için insülinin bir insanda kullanılması (1922)",
+      "order": 1820
+    },
+    {
+      "ay": 1,
+      "gun": 10,
+      "olay": "Teşrînievvel, Teşrînisânî, Kânûnievvel ve Kânûnisânî aylarının; Ekim, Kasım, Aralık ve Ocak’a çevrilmesi (1945)",
+      "order": 1819
+    },
+    {
+      "ay": 1,
+      "gun": 8,
+      "olay": "Enerji Tasarrufu Haftası (2. hafta)",
+      "order": 24
+    },
+    {
+      "ay": 1,
+      "gun": 7,
+      "olay": "Osmaniye'nin kurtuluşu (1922)",
+      "order": 17
+    },
+    {
+      "ay": 5,
+      "gun": 9,
+      "olay": "Osman Gâzî'nin doğumu (1258)",
+      "order": 295
+    },
+    {
+      "ay": 1,
+      "gun": 7,
+      "olay": "Beyaz Baston Körler (Âmâlar) Haftası (7-14 Ocak)",
+      "order": 1818
+    },
+    {
+      "ay": 1,
+      "gun": 7,
+      "olay": "eş-Şeyh Şemsüddin Habîbullah (k.s.) Hazretlerinin irtihâli (1781)",
+      "order": 16
+    },
+    {
+      "ay": 1,
+      "gun": 6,
+      "olay": "Veremle Savaş Haftası (7-13 Ocak)",
+      "order": 1817
+    },
+    {
+      "ay": 1,
+      "gun": 6,
+      "olay": "Sultan Dördüncü Mehmed Han'ın vefâtı (1693)",
+      "order": 15
+    },
+    {
+      "ay": 1,
+      "gun": 5,
+      "olay": "Medîne-i Münevvere'yi sel basması (1918)",
+      "order": 11
+    },
+    {
+      "ay": 1,
+      "gun": 5,
+      "olay": "Adana’nın kurtuluşu (1922)",
+      "order": 14
+    },
+    {
+      "ay": 1,
+      "gun": 5,
+      "olay": "Osmanlı-İngiltere Arasında Çanakkale (Kal'ayı Sultaniyye) Antlaşması'nın İmzalanması (1809)",
+      "order": 1208
+    },
+    {
+      "ay": 1,
+      "gun": 2,
+      "olay": "Endülüs’te İslâm hâkimiyetinin sonu (1492)",
+      "order": 6
+    },
+    {
+      "ay": 1,
+      "gun": 2,
+      "olay": "Fırtına (3 gün)",
+      "order": 1816
+    },
+    {
+      "ay": 1,
+      "gun": 2,
+      "olay": "Kânûnî Sultan Süleyman Han’ın Rodos’u fethi ve ilk cuma namazı kılınması (1523)",
+      "order": 5
+    },
+    {
+      "ay": 1,
+      "gun": 1,
+      "olay": "Türkiye'de İlk yılbaşı tatili (1936)",
+      "order": 3
+    },
+    {
+      "ay": 1,
+      "gun": 1,
+      "olay": "Mîlâdî takvim ve Vasatî saat kullanılmağa başlandı (1926)",
+      "order": 1815
+    },
+    {
+      "ay": 4,
+      "gun": 7,
+      "olay": "Şaîr Bâkî'nin vefâtı (1600)",
+      "order": 671
+    },
+    {
+      "ay": 10,
+      "gun": 6,
+      "olay": "Kâtip Çelebi'nin vefâtı (1658)",
+      "order": 669
+    },
+    {
+      "ay": 8,
+      "gun": 23,
+      "olay": "Ebussuûd Efendi’nin vefatı (1574)",
+      "order": 1758
+    },
+    {
+      "ay": 10,
+      "gun": 6,
+      "olay": "Estergon Kalesi'nin ikinci defa fethi (1605)",
+      "order": 615
+    },
+    {
+      "ay": 11,
+      "gun": 28,
+      "olay": "Şapka Kanunu yürürlüğe girdi (1925)",
+      "order": 1813
+    },
+    {
+      "ay": 11,
+      "gun": 28,
+      "olay": "Kânûnî Sultan Süleyman Han'ın Bağdat'ı fethi (1534)",
+      "order": 716
+    },
+    {
+      "ay": 11,
+      "gun": 25,
+      "olay": "Edirne’nin kurtuluşu (1922)",
+      "order": 1812
+    },
+    {
+      "ay": 11,
+      "gun": 25,
+      "olay": "Büyük Selçuklu Sultanı Alparslan’ın vefatı (1072)",
+      "order": 1209
+    },
+    {
+      "ay": 11,
+      "gun": 24,
+      "olay": "Çaldıran (Van) depremi (1976)",
+      "order": 1811
+    },
+    {
+      "ay": 11,
+      "gun": 24,
+      "olay": "Soğukların başlaması",
+      "order": 708
+    },
+    {
+      "ay": 11,
+      "gun": 21,
+      "olay": "Mardin'in kurtuluşu (1920)",
+      "order": 1810
+    },
+    {
+      "ay": 11,
+      "gun": 21,
+      "olay": "İstanbul Teknik Üniversitesi'nin açılışı (1944)",
+      "order": 700
+    },
+    {
+      "ay": 11,
+      "gun": 20,
+      "olay": "Lozan Konferansı'nın başlaması (1922)",
+      "order": 1809
+    },
+    {
+      "ay": 11,
+      "gun": 20,
+      "olay": "Çocuk Hakları Günü",
+      "order": 699
+    },
+    {
+      "ay": 11,
+      "gun": 19,
+      "olay": "Paris Sözleşmesi (1990)",
+      "order": 1808
+    },
+    {
+      "ay": 11,
+      "gun": 19,
+      "olay": "Avrupa Güvenlik ve İşbirliği Konferansı (AGİK)",
+      "order": 697
+    },
+    {
+      "ay": 11,
+      "gun": 18,
+      "olay": "Mühendishâne-i Bahr-i Hümâyûn (Deniz Harp Okulu)’nun açılışı (1773)",
+      "order": 695
+    },
+    {
+      "ay": 11,
+      "gun": 18,
+      "olay": "Kanije Müdâfaası (1601)",
+      "order": 1807
+    },
+    {
+      "ay": 11,
+      "gun": 18,
+      "olay": "Fırtına",
+      "order": 696
+    },
+    {
+      "ay": 11,
+      "gun": 15,
+      "olay": "Filistin Devleti kuruldu (1988)",
+      "order": 1806
+    },
+    {
+      "ay": 11,
+      "gun": 15,
+      "olay": "Kuzey Kıbrıs Türk Cumhuriyeti'nin kurulması (1983)",
+      "order": 689
+    },
+    {
+      "ay": 11,
+      "gun": 14,
+      "olay": "Dünya Diyabet Günü",
+      "order": 1805
+    },
+    {
+      "ay": 11,
+      "gun": 13,
+      "olay": "Silsile-i Sâdât’ın otuz birinci halkası olan Mazhar Îşân Cân-ı Cânân (k.s.) Hazretlerinin irtihali (1883)",
+      "order": 1804
+    },
+    {
+      "ay": 11,
+      "gun": 12,
+      "olay": "7,2 Şiddetindeki Düzce Depremi (1999)",
+      "order": 1803
+    },
+    {
+      "ay": 11,
+      "gun": 12,
+      "olay": "Pîrî Mehmed Paşa'nın vefâtı (1522)",
+      "order": 683
+    },
+    {
+      "ay": 11,
+      "gun": 8,
+      "olay": "Dünya Şehircilik Günü",
+      "order": 1802
+    },
+    {
+      "ay": 11,
+      "gun": 8,
+      "olay": "Kasım (kış) günleri (rûz-i kasım) başlangıcı",
+      "order": 1801
+    },
+    {
+      "ay": 11,
+      "gun": 8,
+      "olay": "Sultan İkinci Süleyman Han'ın tahta çıkışı (1687)",
+      "order": 673
+    },
+    {
+      "ay": 11,
+      "gun": 7,
+      "olay": "Rusya'da komünist ihtilâli (1917)",
+      "order": 1800
+    },
+    {
+      "ay": 11,
+      "gun": 7,
+      "olay": "Fırtına",
+      "order": 672
+    },
+    {
+      "ay": 11,
+      "gun": 7,
+      "olay": "Hızır (yaz) günlerinin sonu",
+      "order": 1799
+    },
+    {
+      "ay": 11,
+      "gun": 6,
+      "olay": "Kuş geçimi fırtınası",
+      "order": 1798
+    },
+    {
+      "ay": 11,
+      "gun": 5,
+      "olay": "Balık mevsimi",
+      "order": 1797
+    },
+    {
+      "ay": 11,
+      "gun": 4,
+      "olay": "Lodos rüzgârlarının esmeye başlaması",
+      "order": 667
+    },
+    {
+      "ay": 11,
+      "gun": 5,
+      "olay": "Selânik'in kaybı (1912)",
+      "order": 1796
+    },
+    {
+      "ay": 11,
+      "gun": 5,
+      "olay": "Sultan Melikşah'ın vefâtı (1092)",
+      "order": 668
+    },
+    {
+      "ay": 11,
+      "gun": 3,
+      "olay": "Hendese-i Mülkiyye Mektebi Sultan İkinci Abdülhamid Han tarafından kuruldu (1883)",
+      "order": 1795
+    },
+    {
+      "ay": 11,
+      "gun": 3,
+      "olay": "Tanzimât'ın ilânı (1839)",
+      "order": 665
+    },
+    {
+      "ay": 11,
+      "gun": 3,
+      "olay": "Hazret-i Ömer radıyallâhü anh’ın şehâdeti (644)",
+      "order": 664
+    },
+    {
+      "ay": 11,
+      "gun": 2,
+      "olay": "Lösemili Çocuklar Haftası (2-8 Kasım)",
+      "order": 1794
+    },
+    {
+      "ay": 11,
+      "gun": 1,
+      "olay": "Osmanlı resmî gazetesi, Takvîm-i Vekâyi ismiyle yayınlandı (1831)",
+      "order": 660
+    },
+    {
+      "ay": 10,
+      "gun": 31,
+      "olay": "Dünya tasarruf günü",
+      "order": 1793
+    },
+    {
+      "ay": 10,
+      "gun": 29,
+      "olay": "İran hükümetinin Azerbaycan mekteplerinde uyguladığı Türk dili yasağı Sultan Abdülhamîd Han'ın gayretiyle kaldırıldı (1900)",
+      "order": 1792
+    },
+    {
+      "ay": 10,
+      "gun": 29,
+      "olay": "Türkiye Cumhuriyeti Devleti'nin kuruluşu (1923) Cumhuriyet Bayramı",
+      "order": 652
+    },
+    {
+      "ay": 10,
+      "gun": 28,
+      "olay": "Nüfus sayımı (1927 / 13.648.270 kişi)",
+      "order": 1791
+    },
+    {
+      "ay": 10,
+      "gun": 28,
+      "olay": "Kızılay Haftası (28 Ekim - 4 Kasım)",
+      "order": 1790
+    },
+    {
+      "ay": 10,
+      "gun": 28,
+      "olay": "Ankara Radyosu yayına başladı (1938)",
+      "order": 1202
+    },
+    {
+      "ay": 10,
+      "gun": 27,
+      "olay": "Balık fırtınası",
+      "order": 1789
+    },
+    {
+      "ay": 10,
+      "gun": 27,
+      "olay": "Balkan Antlaşması'nın kabûlü (1932)",
+      "order": 1788
+    },
+    {
+      "ay": 10,
+      "gun": 27,
+      "olay": "Türkmenistan'ın istiklâli (1991)",
+      "order": 1199
+    },
+    {
+      "ay": 10,
+      "gun": 26,
+      "olay": "Hasta Hakları Günü",
+      "order": 1787
+    },
+    {
+      "ay": 10,
+      "gun": 26,
+      "olay": "Haçova Zaferi (1596)",
+      "order": 644
+    },
+    {
+      "ay": 10,
+      "gun": 25,
+      "olay": "Birleşmiş Milletler Günü",
+      "order": 1786
+    },
+    {
+      "ay": 10,
+      "gun": 24,
+      "olay": "Birleşmiş Milletler (BM) kuruldu (1945)",
+      "order": 640
+    },
+    {
+      "ay": 8,
+      "gun": 13,
+      "olay": "Orta Afrika Cumhuriyeti (Fransa’dan) istiklâlini kazandı (1960)",
+      "order": 1746
+    },
+    {
+      "ay": 8,
+      "gun": 13,
+      "olay": "Şeyh Muhammed Bedvânî Hazretlerinin (k.s.) irtihâli (1723)",
+      "order": 491
+    },
+    {
+      "ay": 8,
+      "gun": 12,
+      "olay": "Ortaokullara din dersleri konulması (1956)",
+      "order": 1745
+    },
+    {
+      "ay": 8,
+      "gun": 12,
+      "olay": "Pamuk toplama zamanı",
+      "order": 1744
+    },
+    {
+      "ay": 2,
+      "gun": 7,
+      "olay": "Soğukların artması",
+      "order": 83
+    },
+    {
+      "ay": 8,
+      "gun": 12,
+      "olay": "Bulgaristan 250 bin Türk'ü sınırdışı etti (1950)",
+      "order": 490
+    },
+    {
+      "ay": 8,
+      "gun": 11,
+      "olay": "Otranto'nun fethi (1480)",
+      "order": 1743
+    },
+    {
+      "ay": 8,
+      "gun": 11,
+      "olay": "Fâtih Sultan Mehmed Han'ın Otlukbeli Zaferi (1473)",
+      "order": 489
+    },
+    {
+      "ay": 8,
+      "gun": 10,
+      "olay": "Estergon Kalesi’nin fethi (1543)",
+      "order": 1742
+    },
+    {
+      "ay": 8,
+      "gun": 10,
+      "olay": "Türksat 1 B'nin uzaya frlatılışı (1994)",
+      "order": 1741
+    },
+    {
+      "ay": 8,
+      "gun": 10,
+      "olay": "Sevr Andlaşması (1920)",
+      "order": 488
+    },
+    {
+      "ay": 8,
+      "gun": 9,
+      "olay": "İkinci atom bombası Nagazaki'ye atıldı (1945)",
+      "order": 1740
+    },
+    {
+      "ay": 8,
+      "gun": 9,
+      "olay": "Çanakkale'de Birinci Anafartalar Zaferi (1915)",
+      "order": 487
+    },
+    {
+      "ay": 8,
+      "gun": 8,
+      "olay": "Eyyâm-ı bâhûrun (sıcak günlerin) sonu",
+      "order": 486
+    },
+    {
+      "ay": 8,
+      "gun": 7,
+      "olay": "Buharlı yolcu gemisi ilk seferini yaptı (1807)",
+      "order": 1739
+    },
+    {
+      "ay": 8,
+      "gun": 7,
+      "olay": "İlk bilgisayar “Mark I” devreye alındı (1944)",
+      "order": 1738
+    },
+    {
+      "ay": 8,
+      "gun": 6,
+      "olay": "İlk atom bombası Hiroşima'ya atıldı (1945)",
+      "order": 1737
+    },
+    {
+      "ay": 8,
+      "gun": 6,
+      "olay": "Arıların bal yapma zamanı",
+      "order": 483
+    },
+    {
+      "ay": 8,
+      "gun": 5,
+      "olay": "Turgut Reis'in Ponza Zaferi (1552)",
+      "order": 1736
+    },
+    {
+      "ay": 8,
+      "gun": 5,
+      "olay": "Fransa'nın Cezâyir katliamı (1945 / 45 bin insan katledildi)",
+      "order": 481
+    },
+    {
+      "ay": 8,
+      "gun": 4,
+      "olay": "Osmanlı Cezayir Beylerbeyi Ramazan Paşa’nın Portekizlilere karşı Vâdi’s-Seyl (Fas) Zaferi (1578)",
+      "order": 479
+    },
+    {
+      "ay": 8,
+      "gun": 3,
+      "olay": "Almanya'nın Fransa'ya harp ilanı (1914)",
+      "order": 478
+    },
+    {
+      "ay": 8,
+      "gun": 2,
+      "olay": "Irak'ın Kuveyt'i işgâli (1990)",
+      "order": 1735
+    },
+    {
+      "ay": 8,
+      "gun": 2,
+      "olay": "Birinci Cihan Harbi'nde seferberlik ilânı (1914)",
+      "order": 477
+    },
+    {
+      "ay": 8,
+      "gun": 1,
+      "olay": "Eyyâm-ı bâhûr (en sıcak günler) başladı (7 gün)",
+      "order": 475
+    },
+    {
+      "ay": 8,
+      "gun": 1,
+      "olay": "Kıbrıs'ın fethi (1571)",
+      "order": 1734
+    },
+    {
+      "ay": 8,
+      "gun": 1,
+      "olay": "Osman Bey'in vefâtı, Orhan Bey'in tahta çıkışı (1326)",
+      "order": 474
+    },
+    {
+      "ay": 7,
+      "gun": 31,
+      "olay": "Cerbe Kalesi'nin fethi (1560)",
+      "order": 1733
+    },
+    {
+      "ay": 7,
+      "gun": 31,
+      "olay": "İmam Ahmed bin Hanbel'in (rh.) vefatı (855)",
+      "order": 473
+    },
+    {
+      "ay": 7,
+      "gun": 30,
+      "olay": "Bismark'ın ölümü (1898)",
+      "order": 1732
+    },
+    {
+      "ay": 7,
+      "gun": 30,
+      "olay": "Lehistan (Polonya)'ın Osmanlı himâyesini kabûlü (1557)",
+      "order": 471
+    },
+    {
+      "ay": 7,
+      "gun": 28,
+      "olay": "Sultan İkinci Mahmud Han'ın tahta çıkışı (1808)",
+      "order": 1731
+    },
+    {
+      "ay": 7,
+      "gun": 28,
+      "olay": "Birinci Cihan Harbi başladı (1914)",
+      "order": 467
+    },
+    {
+      "ay": 7,
+      "gun": 25,
+      "olay": "İlk lokomotifin çalıştırılması (1814)",
+      "order": 1730
+    },
+    {
+      "ay": 7,
+      "gun": 25,
+      "olay": "Târık bin Ziyâd'ın İspanya'yı fethi (711)",
+      "order": 461
+    },
+    {
+      "ay": 7,
+      "gun": 24,
+      "olay": "Tübitak'ın kuruluşu (1963)",
+      "order": 1729
+    },
+    {
+      "ay": 7,
+      "gun": 24,
+      "olay": "Lozan Andlaşması (1923)",
+      "order": 459
+    },
+    {
+      "ay": 7,
+      "gun": 22,
+      "olay": "Edirne'nin kurtuluşu (1913)",
+      "order": 1728
+    },
+    {
+      "ay": 7,
+      "gun": 22,
+      "olay": "Prut Zaferi ve (Osmanlı-Rus) Prut Barış Antlaşması (1711)",
+      "order": 454
+    },
+    {
+      "ay": 7,
+      "gun": 23,
+      "olay": "Hatay'ın anavatana katılışı (1939)",
+      "order": 1727
+    },
+    {
+      "ay": 7,
+      "gun": 23,
+      "olay": "Erzurum Kongresi (1919)",
+      "order": 457
+    },
+    {
+      "ay": 7,
+      "gun": 19,
+      "olay": "Yalova'nın kurtuluşu (1922)",
+      "order": 1726
+    },
+    {
+      "ay": 7,
+      "gun": 19,
+      "olay": "Emevî İslâm Ordusu'nun İspanya'ya çıkışı (711)",
+      "order": 449
+    },
+    {
+      "ay": 7,
+      "gun": 18,
+      "olay": "Türkiye, Cemiyet-i Akvam'a üye oldu (1932)",
+      "order": 1725
+    },
+    {
+      "ay": 7,
+      "gun": 18,
+      "olay": "Şiddetli sıcaklar",
+      "order": 448
+    },
+    {
+      "ay": 5,
+      "gun": 28,
+      "olay": "Dünya KIBLE Günü",
+      "order": 344
+    },
+    {
+      "ay": 7,
+      "gun": 14,
+      "olay": "Fransız İhtilâli (1789)",
+      "order": 1724
+    },
+    {
+      "ay": 7,
+      "gun": 14,
+      "olay": "İkinci Viyana Kuşatması (1683)",
+      "order": 441
+    },
+    {
+      "ay": 7,
+      "gun": 13,
+      "olay": "Kânûnî Sultan Süleyman Han'ın Tebriz'i fethi (1534)",
+      "order": 1723
+    },
+    {
+      "ay": 7,
+      "gun": 13,
+      "olay": "Hazret-i Âişe (r.anhâ) vâlidemizin vefâtı (678)",
+      "order": 440
+    },
+    {
+      "ay": 7,
+      "gun": 10,
+      "olay": "İlk kıtalararası haberleşme uydusu ‘Telstar 1’ uzaya gönderildi (1962)",
+      "order": 1722
+    },
+    {
+      "ay": 7,
+      "gun": 9,
+      "olay": "Rumeli Hisarı inşâ edildi (1452)",
+      "order": 1721
+    },
+    {
+      "ay": 7,
+      "gun": 9,
+      "olay": "Emir Timur Bağdat'a girdi (1401)",
+      "order": 432
+    },
+    {
+      "ay": 7,
+      "gun": 8,
+      "olay": "Özel Radyo ile Televizyon İşletilmesi ve Kurulması Serbest Bırakıldı (1993)",
+      "order": 1720
+    },
+    {
+      "ay": 7,
+      "gun": 8,
+      "olay": "Kırklareli'nin Bulgar işgâlinden kurtuluşu (1913)",
+      "order": 430
+    },
+    {
+      "ay": 7,
+      "gun": 2,
+      "olay": "Hacda tünel fâciası (1426 kişi hayatını kaybetti) (1990)",
+      "order": 417
+    },
+    {
+      "ay": 6,
+      "gun": 29,
+      "olay": "İlk buhar makinesinin icadı (1698)",
+      "order": 1719
+    },
+    {
+      "ay": 6,
+      "gun": 24,
+      "olay": "Ruslarla Edirne antlaşması yapıldı (1713)",
+      "order": 396
+    },
+    {
+      "ay": 6,
+      "gun": 24,
+      "olay": "Kütübhâne-i Umûmî-i Osmânî (Beyazıt Devlet Kütüphanesi) açıldı 1884",
+      "order": 1717
+    },
+    {
+      "ay": 6,
+      "gun": 23,
+      "olay": "Turgut Reis'in şehâdeti (1565)",
+      "order": 1716
+    },
+    {
+      "ay": 6,
+      "gun": 23,
+      "olay": "Hazreti Ali (k.v.)'nin halîfe seçilmesi (656)",
+      "order": 395
+    },
+    {
+      "ay": 6,
+      "gun": 22,
+      "olay": "Erzurumlu İbrahim Hakkı Hazretlerinin vefâtı (1780)",
+      "order": 394
+    },
+    {
+      "ay": 6,
+      "gun": 20,
+      "olay": "Senenin en uzun günlerinin başlaması",
+      "order": 1715
+    },
+    {
+      "ay": 6,
+      "gun": 15,
+      "olay": "Cenub (Güney) rüzgârları",
+      "order": 378
+    },
+    {
+      "ay": 6,
+      "gun": 14,
+      "olay": "Dünya Gönüllü Kan Bağışçıları Günü",
+      "order": 1714
+    },
+    {
+      "ay": 6,
+      "gun": 14,
+      "olay": "Avustralya'nın keşfi (1643)",
+      "order": 374
+    },
+    {
+      "ay": 6,
+      "gun": 14,
+      "olay": "Zaptiye (Jandarma) Teşkîlâtı'nın kuruluşu (1846)",
+      "order": 373
+    },
+    {
+      "ay": 6,
+      "gun": 13,
+      "olay": "Süleymâniye Câmii'nin temeli atıldı (1550)",
+      "order": 1713
+    },
+    {
+      "ay": 6,
+      "gun": 13,
+      "olay": "Silistre Müdâfaası (1854)",
+      "order": 372
+    },
+    {
+      "ay": 6,
+      "gun": 12,
+      "olay": "Dünya Çocuk İşçiliği ile Mücadele Günü",
+      "order": 1712
+    },
+    {
+      "ay": 6,
+      "gun": 12,
+      "olay": "Keban Barajı'nın temeli atıldı (1966)",
+      "order": 371
+    },
+    {
+      "ay": 6,
+      "gun": 9,
+      "olay": "Sultanahmed Câmii ibâdete açıldı (1617)",
+      "order": 1711
+    },
+    {
+      "ay": 6,
+      "gun": 9,
+      "olay": "Hazret-i Ebûbekir (r.a.)'in halîfe seçilmesi (632)",
+      "order": 367
+    },
+    {
+      "ay": 6,
+      "gun": 7,
+      "olay": "Yağmurlar",
+      "order": 1710
+    },
+    {
+      "ay": 6,
+      "gun": 7,
+      "olay": "Süleymâniye Câmii'nin ibâdete açılışı (1557)",
+      "order": 364
+    },
+    {
+      "ay": 6,
+      "gun": 5,
+      "olay": "Dünyâ Çevre Günü",
+      "order": 1709
+    },
+    {
+      "ay": 6,
+      "gun": 5,
+      "olay": "Kutalmışoğlu Süleyman Şah'ın vefâtı (1086)",
+      "order": 360
+    },
+    {
+      "ay": 6,
+      "gun": 4,
+      "olay": "Şimal (kuzey) rüzgârları",
+      "order": 359
+    },
+    {
+      "ay": 6,
+      "gun": 3,
+      "olay": "İlk Haçlı Seferinde 8 aylık kuşatmadan sonra Antakya’ya giren haçlılar, Müslümanları katlettiler, şehri yağmaladılar (1098)",
+      "order": 1708
+    },
+    {
+      "ay": 6,
+      "gun": 1,
+      "olay": "Türk Hava Kuvvetleri'nin kuruluşu (1911)",
+      "order": 1707
+    },
+    {
+      "ay": 6,
+      "gun": 1,
+      "olay": "Ayasofya'da ilk cuma namazı kılındı (1453)",
+      "order": 353
+    },
+    {
+      "ay": 4,
+      "gun": 8,
+      "olay": "Yağmurlar",
+      "order": 1705
+    },
+    {
+      "ay": 4,
+      "gun": 8,
+      "olay": "Nusretiye (Tophâne) Câmii açıldı (1826)",
+      "order": 223
+    },
+    {
+      "ay": 6,
+      "gun": 8,
+      "olay": "Peygamber Efendimizin (s.a.v.)'in irtihâli (12 Rebiulevvel 11- M. 632)",
+      "order": 365
+    },
+    {
+      "ay": 6,
+      "gun": 29,
+      "olay": "İkinci Balkan Harbi'nin başlaması (1913)",
+      "order": 1704
+    },
+    {
+      "ay": 6,
+      "gun": 29,
+      "olay": "Silistre Zaferi (1773)",
+      "order": 409
+    },
+    {
+      "ay": 2,
+      "gun": 1,
+      "olay": "Hac'da izdiham, 244 kişi vefat etti (2004)",
+      "order": 1703
+    },
+    {
+      "ay": 9,
+      "gun": 7,
+      "olay": "Ebu'l-Fâruk Süleyman Hilmi TUNAHAN (K.S.) (SİLİSTREVÎ) Hazretlerinin torunu Arif Ahmet Denizolgun'un (rh.) irtihâli (2016)",
+      "order": 546
+    },
+    {
+      "ay": 9,
+      "gun": 7,
+      "olay": "Ebu'l-Fâruk Süleyman Hilmi TUNAHAN (K.S.) (SİLİSTREVÎ) Hazretlerinin dâmadı S. H. Kâmil Denizolgun'un (rh.) irtihâli (1991)",
+      "order": 544
+    },
+    {
+      "ay": 6,
+      "gun": 17,
+      "olay": "Ebu'l-Fâruk Süleyman Hilmi TUNAHAN (K.S.) (SİLİSTREVÎ) Hazretlerinin dâmadı Kemâl KACAR (rh.)'ın irtihâli (2000)",
+      "order": 382
+    },
+    {
+      "ay": 6,
+      "gun": 6,
+      "olay": "Ebu'l-Fâruk Süleyman Hilmi TUNAHAN (K.S.) (SİLİSTREVÎ) Hazretlerinin refîkası Hafîze Tunahan (rh.)'ın irtihâli (1965)",
+      "order": 363
+    },
+    {
+      "ay": 5,
+      "gun": 26,
+      "olay": "Ebu'l-Fâruk Süleyman Hilmi TUNAHAN (K.S.) (SİLİSTREVÎ) Hazretlerinin kerîmesi F. Ferhân Denizolgun (rh.)'un vefâtı (2004)",
+      "order": 338
+    },
+    {
+      "ay": 1,
+      "gun": 4,
+      "olay": "Ebu'l-Fâruk Süleyman Hilmi TUNAHAN (K.S.) (SİLİSTREVÎ) Hazretlerinin kerîmesi H. Bedîa Kacar'ın (rh.) irtihâli (1981)",
+      "order": 10
+    },
+    {
+      "ay": 9,
+      "gun": 16,
+      "olay": "Ebu'l-Fâruk Süleyman Hilmi TUNAHAN (K.S.) (SİLİSTREVÎ) Hazretlerinin irtihâli (H. 13 Rebîulevvel 1379 - M. 1959)",
+      "order": 564
+    },
+    {
+      "ay": 5,
+      "gun": 3,
+      "olay": "Dünya Astım Günü",
+      "order": 1342
+    },
+    {
+      "ay": 5,
+      "gun": 3,
+      "olay": "Fâtih Sultan Mehmed Han'ın vefâtı (1481)",
+      "order": 283
+    },
+    {
+      "ay": 5,
+      "gun": 14,
+      "olay": "Mekteb-i Tıbbiye-i Şâhâne açıldı (1839)",
+      "order": 310
+    },
+    {
+      "ay": 5,
+      "gun": 6,
+      "olay": "Kan Bağışı Haftası (6-12 Mayıs)",
+      "order": 290
+    },
+    {
+      "ay": 2,
+      "gun": 26,
+      "olay": "Ermenilerin, işgal ettikleri Karabağ'daki Hocalı şehrinde Azerbaycanlılara katliam yapması (1992)",
+      "order": 119
+    },
+    {
+      "ay": 1,
+      "gun": 3,
+      "olay": "Mekke-i Mükerreme'nin fethi (630)",
+      "order": 7
+    },
+    {
+      "ay": 12,
+      "gun": 15,
+      "olay": "Ali Kuşçu'nun vefâtı (1474)",
+      "order": 1210
+    },
+    {
+      "ay": 1,
+      "gun": 10,
+      "olay": "Allâme Teftâzânî Hz.’nin vefâtı (1390)",
+      "order": 786
+    },
+    {
+      "ay": 3,
+      "gun": 5,
+      "olay": "Abdülganî Nablusî Hazretlerinin vefâtı (1731)",
+      "order": 137
+    },
+    {
+      "ay": 10,
+      "gun": 5,
+      "olay": "Bosna-Hersek'in kaybı (1908)",
+      "order": 613
+    },
+    {
+      "ay": 3,
+      "gun": 1,
+      "olay": "Türk-Afgan dostluk anlaşması (1921)",
+      "order": 126
+    },
+    {
+      "ay": 2,
+      "gun": 23,
+      "olay": "Fırtına",
+      "order": 112
+    },
+    {
+      "ay": 2,
+      "gun": 4,
+      "olay": "Fırtına",
+      "order": 75
+    },
+    {
+      "ay": 1,
+      "gun": 20,
+      "olay": "Osmanlı İsveç Savunma Antlaşması'nın imzalanması (1740)",
+      "order": 43
+    },
+    {
+      "ay": 10,
+      "gun": 25,
+      "olay": "ABD'de ilk renkli TV kullanımı başladı (1951)",
+      "order": 1203
+    },
+    {
+      "ay": 10,
+      "gun": 25,
+      "olay": "Suların soğuması",
+      "order": 642
+    },
+    {
+      "ay": 3,
+      "gun": 16,
+      "olay": "İngiliz ve Fransızların İstanbul'u işgâli ve yağmalaması (1920)",
+      "order": 164
+    },
+    {
+      "ay": 1,
+      "gun": 30,
+      "olay": "Erbaîn (Zemherîr Karakış)'ın sonu",
+      "order": 62
+    },
+    {
+      "ay": 1,
+      "gun": 21,
+      "olay": "Sultan Üçüncü Mustafa'nın vefâtı, Birinci Abdülhamid Han'ın tahta çıkışı (1774)",
+      "order": 44
+    },
+    {
+      "ay": 12,
+      "gun": 21,
+      "olay": "Sultan Üçüncü Mehmed'in vefatı, Sultan Ahmed'in Tahta Çıkışı (1603)",
+      "order": 785
+    },
+    {
+      "ay": 9,
+      "gun": 25,
+      "olay": "İtfaiyecilik Haftası (25 Eylül-1 Ekim)",
+      "order": 590
+    },
+    {
+      "ay": 9,
+      "gun": 21,
+      "olay": "Sultan ikinci Abdülhamid Han'ın doğumu(1842)",
+      "order": 576
+    },
+    {
+      "ay": 12,
+      "gun": 1,
+      "olay": "Türkiye'de Vasatî Saat'in kabûlü (1925)",
+      "order": 720
+    },
+    {
+      "ay": 12,
+      "gun": 2,
+      "olay": "Karadeniz Teknik Üniversitesi'nin açılışı (1962)",
+      "order": 783
+    },
+    {
+      "ay": 12,
+      "gun": 3,
+      "olay": "Şiddetli soğuklar başlaması",
+      "order": 782
+    },
+    {
+      "ay": 12,
+      "gun": 3,
+      "olay": "Kıyâfet Kanunu'nun TBMM'de kabûlü (1934)",
+      "order": 722
+    },
+    {
+      "ay": 12,
+      "gun": 4,
+      "olay": "Dünya Madenciler Günü",
+      "order": 781
+    },
+    {
+      "ay": 12,
+      "gun": 4,
+      "olay": "Şiddetli soğuklar ve yağışlar.",
+      "order": 725
+    },
+    {
+      "ay": 12,
+      "gun": 7,
+      "olay": "Kilis'in kurtuluşu (1921)",
+      "order": 780
+    },
+    {
+      "ay": 12,
+      "gun": 7,
+      "olay": "Japonya'nın ABD'ye Pearl Harbour baskını (1941)",
+      "order": 730
+    },
+    {
+      "ay": 12,
+      "gun": 9,
+      "olay": "Gâzi Osman Paşa'nın Plevne Müdâfaası (1877)",
+      "order": 779
+    },
+    {
+      "ay": 12,
+      "gun": 9,
+      "olay": "Kudüs'ün İngilizler tarafından işgâli (1917)",
+      "order": 734
+    },
+    {
+      "ay": 12,
+      "gun": 10,
+      "olay": "İnsan Hakları Beyannâmesi'nin ilanı (1948)",
+      "order": 778
+    },
+    {
+      "ay": 12,
+      "gun": 10,
+      "olay": "İmâm-ı Rabbânî (k.s.) Hazretlerinin irtihâli (29 Safer 1034/1624)",
+      "order": 735
+    },
+    {
+      "ay": 12,
+      "gun": 12,
+      "olay": "Tutum, Yatırım ve Türk Malları Haftası (12-18 Aralık)",
+      "order": 777
+    },
+    {
+      "ay": 12,
+      "gun": 12,
+      "olay": "Karakış Fırtınası",
+      "order": 739
+    },
+    {
+      "ay": 12,
+      "gun": 14,
+      "olay": "Amundsen'in Güney Kutbu'nu keşfi (1911)",
+      "order": 776
+    },
+    {
+      "ay": 12,
+      "gun": 14,
+      "olay": "Bosna Barış Anlaşması (1995)",
+      "order": 742
+    },
+    {
+      "ay": 12,
+      "gun": 17,
+      "olay": "Türkiye'de ekmeğin karneye bağlanması (1941)",
+      "order": 775
+    },
+    {
+      "ay": 12,
+      "gun": 17,
+      "olay": "Hz. Mevlânâ'nın vefâtı (1273)",
+      "order": 746
+    },
+    {
+      "ay": 12,
+      "gun": 19,
+      "olay": "Hattat Yesârî'nin vefâtı (1798)",
+      "order": 774
+    },
+    {
+      "ay": 12,
+      "gun": 19,
+      "olay": "Türkiye'nin Yunanistan'a gıda yardımı (1940)",
+      "order": 748
+    },
+    {
+      "ay": 12,
+      "gun": 23,
+      "olay": "Menemen Hâdisesi (1930)",
+      "order": 773
+    },
+    {
+      "ay": 12,
+      "gun": 23,
+      "olay": "Birinci Meşrûtiyet'in ilânı (1876)",
+      "order": 752
+    },
+    {
+      "ay": 12,
+      "gun": 20,
+      "olay": "Fırtına",
+      "order": 772
+    },
+    {
+      "ay": 12,
+      "gun": 20,
+      "olay": "İmâm Şâfî (rh.) hazretlerinin vefâtı (820)",
+      "order": 749
+    },
+    {
+      "ay": 8,
+      "gun": 26,
+      "olay": "Hz. Ali (k.v.)'nin dünyâyı teşrîfi (598)",
+      "order": 512
+    },
+    {
+      "ay": 9,
+      "gun": 9,
+      "olay": "Keban Barajı'nın hizmete girmesi (1974)",
+      "order": 551
+    },
+    {
+      "ay": 12,
+      "gun": 29,
+      "olay": "Sultan İkinci Mustafa Han'ın vefâtı (1703) Çerkes Ethem Hâdisesi (1921)",
+      "order": 768
+    },
+    {
+      "ay": 4,
+      "gun": 20,
+      "olay": "Fırtına",
+      "order": 257
+    },
+    {
+      "ay": 8,
+      "gun": 26,
+      "olay": "Malazgirt Zaferi (1071)",
+      "order": 513
+    },
+    {
+      "ay": 12,
+      "gun": 30,
+      "olay": "Yavuz Sultan Selim Han'ın Kudüs'ü fethi (1517) Gülhâne Askerî Tıp Mektebi açıldı (1898)",
+      "order": 769
+    },
+    {
+      "ay": 8,
+      "gun": 26,
+      "olay": "Yunan ordusuna karşı Büyük Taarruz başladı (1922)",
+      "order": 514
+    },
+    {
+      "ay": 12,
+      "gun": 31,
+      "olay": "Demirköprü Barajı ve Hidroelektrik Santrali hizmete girdi (1960)",
+      "order": 770
+    },
+    {
+      "ay": 8,
+      "gun": 26,
+      "olay": "Zafer Haftası (26-30 Ağustos)",
+      "order": 515
+    },
+    {
+      "ay": 12,
+      "gun": 31,
+      "olay": "Fırtına",
+      "order": 771
+    },
+    {
+      "ay": 8,
+      "gun": 27,
+      "olay": "Sultan İkinci Abdülhamid'in yaptırdığı İstanbul-Şam-Medine (Hicaz) demiryolunun açılışı (1908)",
+      "order": 516
+    },
+    {
+      "ay": 4,
+      "gun": 22,
+      "olay": "Hakkari'nin kurtuluşu (1918)",
+      "order": 261
+    },
+    {
+      "ay": 8,
+      "gun": 27,
+      "olay": "Afyon'un kurtuluşu (1922)",
+      "order": 517
+    },
+    {
+      "ay": 4,
+      "gun": 23,
+      "olay": "TBMM'nin açılışı (1920)",
+      "order": 262
+    },
+    {
+      "ay": 8,
+      "gun": 28,
+      "olay": "Leyleklerin gitme zamanı",
+      "order": 518
+    },
+    {
+      "ay": 4,
+      "gun": 23,
+      "olay": "Ulusal Egemenlik ve Çocuk Bayramı",
+      "order": 263
+    },
+    {
+      "ay": 8,
+      "gun": 28,
+      "olay": "Sıcakların azalması",
+      "order": 519
+    },
+    {
+      "ay": 1,
+      "gun": 3,
+      "olay": "Mersin'in (İçel) kurtuluşu (1922)",
+      "order": 8
+    },
+    {
+      "ay": 4,
+      "gun": 24,
+      "olay": "Yavuz Sultan Selim Han'ın tahta çıkışı (1512)",
+      "order": 264
+    },
+    {
+      "ay": 8,
+      "gun": 29,
+      "olay": "Belgrad'ın fethi (1521)",
+      "order": 520
+    },
+    {
+      "ay": 4,
+      "gun": 24,
+      "olay": "Osmanlı-Rus (93) Harbi (1877)",
+      "order": 265
+    },
+    {
+      "ay": 8,
+      "gun": 30,
+      "olay": "Zafer Bayramı ve Türk Silâhlı Kuvvetler Günü",
+      "order": 522
+    },
+    {
+      "ay": 4,
+      "gun": 25,
+      "olay": "Sitte-i Sevr'in sonu",
+      "order": 267
+    },
+    {
+      "ay": 8,
+      "gun": 30,
+      "olay": "Kütahya'nın kurtuluşu (1922)",
+      "order": 523
+    },
+    {
+      "ay": 4,
+      "gun": 25,
+      "olay": "Fırtına",
+      "order": 268
+    },
+    {
+      "ay": 8,
+      "gun": 31,
+      "olay": "İmâm Buhârî Hz.nin vefâtı (869)",
+      "order": 524
+    },
+    {
+      "ay": 4,
+      "gun": 25,
+      "olay": "İtilaf Devletlerinin Gelibolu'ya çıkarma yapması (1915)",
+      "order": 269
+    },
+    {
+      "ay": 8,
+      "gun": 31,
+      "olay": "5. Murad'ın hal‘ edilip İkinci Abdülhâmid  Han'ın tahta çıkışı (1876)",
+      "order": 525
+    },
+    {
+      "ay": 4,
+      "gun": 26,
+      "olay": "Arıların oğul verme zamanı",
+      "order": 270
+    },
+    {
+      "ay": 8,
+      "gun": 31,
+      "olay": "Kırgızistan'ın istiklâli (1991)",
+      "order": 526
+    },
+    {
+      "ay": 4,
+      "gun": 26,
+      "olay": "İpek böceğinin canlanması",
+      "order": 271
+    },
+    {
+      "ay": 8,
+      "gun": 31,
+      "olay": "Mihrican fırtınası",
+      "order": 527
+    },
+    {
+      "ay": 4,
+      "gun": 26,
+      "olay": "Çernobil Nükleer Santrali kazası (1986)",
+      "order": 272
+    },
+    {
+      "ay": 9,
+      "gun": 1,
+      "olay": "İkinci Dünya Harbi'nin başlaması (1939)",
+      "order": 528
+    },
+    {
+      "ay": 9,
+      "gun": 1,
+      "olay": "Özbekistan'ın istiklâli (1991)",
+      "order": 529
+    },
+    {
+      "ay": 1,
+      "gun": 8,
+      "olay": "(Kırşehir) Hirfanlı Barajı'nın hizmete girişi (1960)",
+      "order": 18
+    },
+    {
+      "ay": 9,
+      "gun": 1,
+      "olay": "Uşak'ın kurtuluşu (1922)",
+      "order": 530
+    },
+    {
+      "ay": 1,
+      "gun": 8,
+      "olay": "Zemherîr fırtınası",
+      "order": 19
+    },
+    {
+      "ay": 9,
+      "gun": 2,
+      "olay": "Büyük İstanbul yangını (1633)",
+      "order": 531
+    },
+    {
+      "ay": 1,
+      "gun": 9,
+      "olay": "Düşman Çanakkale'den çekildi (1916)",
+      "order": 20
+    },
+    {
+      "ay": 9,
+      "gun": 2,
+      "olay": "Zâbıta Teşkilâtı'nın kuruluşu (1826)",
+      "order": 532
+    },
+    {
+      "ay": 1,
+      "gun": 9,
+      "olay": "Osmanlı-Rus “Yaş” Antlaşması (1792)",
+      "order": 21
+    },
+    {
+      "ay": 4,
+      "gun": 29,
+      "olay": "Yıldız Sarayı'nın İttihatçılarca yağmalanması (1909)",
+      "order": 277
+    },
+    {
+      "ay": 9,
+      "gun": 2,
+      "olay": "Zâbıta Haftası",
+      "order": 533
+    },
+    {
+      "ay": 1,
+      "gun": 11,
+      "olay": "Haliç'in donması (1755)",
+      "order": 22
+    },
+    {
+      "ay": 4,
+      "gun": 30,
+      "olay": "Gazneli Mahmud'un vefâtı (1030)",
+      "order": 278
+    },
+    {
+      "ay": 9,
+      "gun": 2,
+      "olay": "Eskişehir'in kurtuluşu (1922)",
+      "order": 534
+    },
+    {
+      "ay": 1,
+      "gun": 11,
+      "olay": "Şiddetli soğuklar",
+      "order": 23
+    },
+    {
+      "ay": 4,
+      "gun": 30,
+      "olay": "Muş'un kurtuluşu (1917)",
+      "order": 279
+    },
+    {
+      "ay": 9,
+      "gun": 3,
+      "olay": "(Eskişehir) Seyyid Battal Gâzi'yi Anma Haftası",
+      "order": 535
+    },
+    {
+      "ay": 9,
+      "gun": 3,
+      "olay": "Fırtına  Halk Sağlığı Haftası (3-9 Eylül)",
+      "order": 536
+    },
+    {
+      "ay": 1,
+      "gun": 12,
+      "olay": "Osmanlı Meclis-i Mebûsanı'nın İstanbul'daki son devre toplantılarının başlaması (1920)",
+      "order": 25
+    },
+    {
+      "ay": 9,
+      "gun": 4,
+      "olay": "Sivas Kongresi (1919)",
+      "order": 537
+    },
+    {
+      "ay": 9,
+      "gun": 4,
+      "olay": "Bıldırcın Geçimi Fırtınası",
+      "order": 538
+    },
+    {
+      "ay": 1,
+      "gun": 13,
+      "olay": "İstanbul'da Dârulfünûn açıldı (1863)",
+      "order": 27
+    },
+    {
+      "ay": 9,
+      "gun": 5,
+      "olay": "Sultan Baybars komutasındaki Memlûk ordusu Moğolları Ayn-ı Calût muharebesinde mağlup etti (1260)",
+      "order": 539
+    },
+    {
+      "ay": 5,
+      "gun": 3,
+      "olay": "Haydarpaşa-İzmit Demiryolu açıldı (1873)",
+      "order": 284
+    },
+    {
+      "ay": 9,
+      "gun": 6,
+      "olay": "Tebriz'in fethi (1514)",
+      "order": 540
+    },
+    {
+      "ay": 9,
+      "gun": 6,
+      "olay": "Bilecik ve Balıkesir'in kurtuluşu (1922)",
+      "order": 541
+    },
+    {
+      "ay": 1,
+      "gun": 15,
+      "olay": "Akşemseddin (k.s.) Hazretlerinin vefâtı (1459)",
+      "order": 30
+    },
+    {
+      "ay": 5,
+      "gun": 4,
+      "olay": "Çiçek fırtınası",
+      "order": 286
+    },
+    {
+      "ay": 9,
+      "gun": 6,
+      "olay": "Şeyh Edebâli'yi Anma Günü (Bilecik)",
+      "order": 542
+    },
+    {
+      "ay": 5,
+      "gun": 4,
+      "olay": "İş Sağlığı ve Güvenliği Haftası (4-10 Mayıs)",
+      "order": 287
+    },
+    {
+      "ay": 1,
+      "gun": 17,
+      "olay": "Ankara'da ekmek vesîkaya bağlandı (1942)",
+      "order": 34
+    },
+    {
+      "ay": 9,
+      "gun": 8,
+      "olay": "Koç ayırma zamanı",
+      "order": 547
+    },
+    {
+      "ay": 1,
+      "gun": 18,
+      "olay": "Çandarlı Ali Paşa'nın vefâtı (1406)",
+      "order": 36
+    },
+    {
+      "ay": 5,
+      "gun": 7,
+      "olay": "Osmanlı-Amerikan Ticaret ve Dostluk Antlaşması'nın imzalanması (1830)",
+      "order": 292
+    },
+    {
+      "ay": 9,
+      "gun": 8,
+      "olay": "Manisa'nın kurtuluşu (1922)",
+      "order": 549
+    },
+    {
+      "ay": 1,
+      "gun": 18,
+      "olay": "Dünyanın ikinci metrosu olan İstanbul Galata Tüneli'nin açılışı (1875)",
+      "order": 38
+    },
+    {
+      "ay": 9,
+      "gun": 9,
+      "olay": "Osmanlı'da ilk telgraf hattı açıldı (1855)",
+      "order": 550
+    },
+    {
+      "ay": 1,
+      "gun": 19,
+      "olay": "Çırağan Sarayı yandı (1910)",
+      "order": 39
+    },
+    {
+      "ay": 1,
+      "gun": 19,
+      "olay": "SSCB askerlerinin Bakü'yü (Azerbeycan) işgali (1990)",
+      "order": 40
+    },
+    {
+      "ay": 5,
+      "gun": 9,
+      "olay": "Sultan Sencer'in vefâtı (1157)",
+      "order": 296
+    },
+    {
+      "ay": 9,
+      "gun": 9,
+      "olay": "İzmir'in kurtuluşu (1922)",
+      "order": 552
+    },
+    {
+      "ay": 1,
+      "gun": 20,
+      "olay": "Sultan Birinci Mustafa Han'ın vefâtı (1639)",
+      "order": 41
+    },
+    {
+      "ay": 5,
+      "gun": 9,
+      "olay": "Doğu rüzgârlarının esmesi",
+      "order": 297
+    },
+    {
+      "ay": 9,
+      "gun": 10,
+      "olay": "Peygamberimiz (s.a.v.)'in Mekke'den Medîne'ye hicret için yola çıkışı (M. 622)",
+      "order": 553
+    },
+    {
+      "ay": 5,
+      "gun": 10,
+      "olay": "Akka'da Cezzar Ahmet Paşa'nın Napolyon'u mağlup etmesi (1799)",
+      "order": 298
+    },
+    {
+      "ay": 9,
+      "gun": 10,
+      "olay": "Sultan Dördüncü Murad'ın tahta çıkışı (1623)",
+      "order": 554
+    },
+    {
+      "ay": 5,
+      "gun": 10,
+      "olay": "Şura-yı Devlet (Danıştay)'ın Kuruluşu 1868",
+      "order": 299
+    },
+    {
+      "ay": 9,
+      "gun": 10,
+      "olay": "Sivastopol'un geri alınışı (1855)",
+      "order": 555
+    },
+    {
+      "ay": 5,
+      "gun": 11,
+      "olay": "Yağmur mevsiminin sonu",
+      "order": 301
+    },
+    {
+      "ay": 9,
+      "gun": 12,
+      "olay": "Çaylakların gitme zamanı",
+      "order": 557
+    },
+    {
+      "ay": 5,
+      "gun": 11,
+      "olay": "Fırtına",
+      "order": 302
+    },
+    {
+      "ay": 1,
+      "gun": 23,
+      "olay": "İttihatçılar'ın Bâb-ı Âlî baskını (1913)",
+      "order": 48
+    },
+    {
+      "ay": 5,
+      "gun": 12,
+      "olay": "Fransa'nın Tunus'u işgali (1881)",
+      "order": 304
+    },
+    {
+      "ay": 1,
+      "gun": 24,
+      "olay": "Hazret-i Ali (k.v.)'nin Kûfe Câmii'nde şehit edilmesi (661)",
+      "order": 49
+    },
+    {
+      "ay": 5,
+      "gun": 12,
+      "olay": "Hemşirelik Haftası (12-18 Mayıs)",
+      "order": 305
+    },
+    {
+      "ay": 9,
+      "gun": 14,
+      "olay": "İstanbul'da büyük deprem (Kıyâmet-i Suğra) (1509)",
+      "order": 561
+    },
+    {
+      "ay": 1,
+      "gun": 24,
+      "olay": "Haliç'in donması (1621)",
+      "order": 50
+    },
+    {
+      "ay": 5,
+      "gun": 13,
+      "olay": "Mevsimsiz soğuklar",
+      "order": 306
+    },
+    {
+      "ay": 9,
+      "gun": 14,
+      "olay": "İlköğretim Haftası",
+      "order": 562
+    },
+    {
+      "ay": 2,
+      "gun": 1,
+      "olay": "Ayasofya Câmii'nin müzeye çevrilmesi (1935)",
+      "order": 68
+    },
+    {
+      "ay": 5,
+      "gun": 20,
+      "olay": "Sultan Genç Osman'ın şehid edilmesi (1622)",
+      "order": 324
+    },
+    {
+      "ay": 5,
+      "gun": 20,
+      "olay": "Kokolya fırtınası",
+      "order": 325
+    },
+    {
+      "ay": 2,
+      "gun": 2,
+      "olay": "Fırtına",
+      "order": 70
+    },
+    {
+      "ay": 2,
+      "gun": 2,
+      "olay": "Türk Eczacılar Birliği'nin kuruluşu (1956)",
+      "order": 71
+    },
+    {
+      "ay": 2,
+      "gun": 3,
+      "olay": "Sultan İkinci Murad Han'ın vefâtı (1451)",
+      "order": 72
+    },
+    {
+      "ay": 9,
+      "gun": 24,
+      "olay": "Peygamberimiz (s.a.v.)'in Mekke'den hicretle Medine'ye girişi (M.622)",
+      "order": 584
+    },
+    {
+      "ay": 2,
+      "gun": 3,
+      "olay": "İlk Feza (Uzay) Gemisi'nin Ay'a inişi (1966)",
+      "order": 73
+    },
+    {
+      "ay": 9,
+      "gun": 24,
+      "olay": "Uyvar Kalesi'nin fethi (1663)",
+      "order": 585
+    },
+    {
+      "ay": 2,
+      "gun": 4,
+      "olay": "Balkan Paktı'nın imzalanması (1934)",
+      "order": 74
+    },
+    {
+      "ay": 9,
+      "gun": 24,
+      "olay": "Yaprak dökümünün başlaması",
+      "order": 586
+    },
+    {
+      "ay": 5,
+      "gun": 24,
+      "olay": "Selçuklu Devleti'nin kuruluşu (1040)",
+      "order": 331
+    },
+    {
+      "ay": 9,
+      "gun": 24,
+      "olay": "Hac'da izdiham faciası (2015)",
+      "order": 587
+    },
+    {
+      "ay": 2,
+      "gun": 4,
+      "olay": "İskilipli Âtıf Hoca îdâm edildi (1926)",
+      "order": 76
+    },
+    {
+      "ay": 5,
+      "gun": 24,
+      "olay": "Topraktan suyun çekilmesi",
+      "order": 332
+    },
+    {
+      "ay": 9,
+      "gun": 25,
+      "olay": "Yıldırım Bâyezid Han'ın Niğbolu Zaferi (1396)",
+      "order": 588
+    },
+    {
+      "ay": 2,
+      "gun": 4,
+      "olay": "Dünya Kanser Günü",
+      "order": 77
+    },
+    {
+      "ay": 9,
+      "gun": 25,
+      "olay": "Patrona Halil isyanı (1730)",
+      "order": 589
+    },
+    {
+      "ay": 2,
+      "gun": 5,
+      "olay": "Ağaç dikme zamanı",
+      "order": 78
+    },
+    {
+      "ay": 5,
+      "gun": 25,
+      "olay": "İmâm-ı Rabbânî (k.s.) Hazretleri'nin doğumu (4 Şevval 971/M.1564)",
+      "order": 334
+    },
+    {
+      "ay": 2,
+      "gun": 5,
+      "olay": "Şiddetli soğuklar",
+      "order": 79
+    },
+    {
+      "ay": 5,
+      "gun": 25,
+      "olay": "Ahmed Cevdet Paşa'nın vefâtı (1895)",
+      "order": 335
+    },
+    {
+      "ay": 5,
+      "gun": 25,
+      "olay": "Ampulün icadı (1878)",
+      "order": 336
+    },
+    {
+      "ay": 9,
+      "gun": 26,
+      "olay": "Kânûnî Sultan Süleyman Han'ın Birinci Viyana muhâsarası (1529)",
+      "order": 592
+    },
+    {
+      "ay": 9,
+      "gun": 26,
+      "olay": "Mevsim yağmurları",
+      "order": 593
+    },
+    {
+      "ay": 2,
+      "gun": 7,
+      "olay": "Maraş'a “Kahraman” unvânı verildi (1973)",
+      "order": 82
+    },
+    {
+      "ay": 9,
+      "gun": 27,
+      "olay": "Preveze Deniz Zaferi (1538)",
+      "order": 594
+    },
+    {
+      "ay": 5,
+      "gun": 27,
+      "olay": "Elmalılı Hamdi Yazır'ın vefâtı (1942)",
+      "order": 339
+    },
+    {
+      "ay": 9,
+      "gun": 27,
+      "olay": "Deniz Kuvvetleri Günü",
+      "order": 595
+    },
+    {
+      "ay": 2,
+      "gun": 8,
+      "olay": "Sultan Dördüncü Murad Han'ın vefâtı (1640)",
+      "order": 84
+    },
+    {
+      "ay": 5,
+      "gun": 27,
+      "olay": "Hafta tatilinin cumadan pazara alınması (1935)",
+      "order": 340
+    },
+    {
+      "ay": 9,
+      "gun": 27,
+      "olay": "Dünya Kalp Günü",
+      "order": 596
+    },
+    {
+      "ay": 5,
+      "gun": 27,
+      "olay": "Bahar rüzgârlarının sonu",
+      "order": 341
+    },
+    {
+      "ay": 9,
+      "gun": 28,
+      "olay": "Kestane karası fırtınası",
+      "order": 597
+    },
+    {
+      "ay": 5,
+      "gun": 28,
+      "olay": "Osmanlılar'ın Rumeli'ye geçişi 1348",
+      "order": 342
+    },
+    {
+      "ay": 9,
+      "gun": 28,
+      "olay": "Kâzım Karabekir'in Ermenilere karşı harekâtı (1920)",
+      "order": 598
+    },
+    {
+      "ay": 2,
+      "gun": 10,
+      "olay": "Sultan İkinci Abdülhamid Han'ın irtihâli (1918)",
+      "order": 87
+    },
+    {
+      "ay": 5,
+      "gun": 28,
+      "olay": "Dîvân-ı Muhâsebât (Sayıştay)'ın kuruluşu (1862)",
+      "order": 343
+    },
+    {
+      "ay": 9,
+      "gun": 29,
+      "olay": "İnebahtı Kalesi'nin fethi (1499)",
+      "order": 599
+    },
+    {
+      "ay": 9,
+      "gun": 29,
+      "olay": "Kars Zaferi ile şehre ve ahâlisine “Gâzi” unvanı verildi (1855)",
+      "order": 600
+    },
+    {
+      "ay": 5,
+      "gun": 28,
+      "olay": "Koyun kırkma zamanı",
+      "order": 345
+    },
+    {
+      "ay": 2,
+      "gun": 12,
+      "olay": "San'a (Yemen)'nın fethi (1546)",
+      "order": 90
+    },
+    {
+      "ay": 5,
+      "gun": 28,
+      "olay": "Sam yelinin esmesi",
+      "order": 346
+    },
+    {
+      "ay": 9,
+      "gun": 30,
+      "olay": "Turna Geçimi Fırtınası",
+      "order": 602
+    },
+    {
+      "ay": 2,
+      "gun": 12,
+      "olay": "Kahramanmaraş'ın kurtuluşu (1920)",
+      "order": 91
+    },
+    {
+      "ay": 10,
+      "gun": 1,
+      "olay": "Sultan Birinci Mahmud'un tahta çıkışı (1730)",
+      "order": 603
+    },
+    {
+      "ay": 2,
+      "gun": 13,
+      "olay": "Kuzey Kıbrıs Türk Federe Devleti'nin kuruluşu (1975)",
+      "order": 92
+    },
+    {
+      "ay": 10,
+      "gun": 1,
+      "olay": "Sıcakların sonu",
+      "order": 604
+    },
+    {
+      "ay": 2,
+      "gun": 13,
+      "olay": "Erzincan'nın kurtuluşu (1918)",
+      "order": 93
+    },
+    {
+      "ay": 10,
+      "gun": 1,
+      "olay": "Câmiler ve Din Görevlileri Haftası (1-7 Ekim)",
+      "order": 605
+    },
+    {
+      "ay": 2,
+      "gun": 14,
+      "olay": "Yeni Balkan Paktı Ankara'da imzalandı (1953)",
+      "order": 94
+    },
+    {
+      "ay": 5,
+      "gun": 30,
+      "olay": "Kabak meltemi",
+      "order": 350
+    },
+    {
+      "ay": 10,
+      "gun": 2,
+      "olay": "Azîz Mahmûd Hüdâî Hazretlerinin vefâtı (1628)",
+      "order": 606
+    },
+    {
+      "ay": 2,
+      "gun": 15,
+      "olay": "İzmir Eski Eserler Müzesi'nin açılışı (1927)",
+      "order": 96
+    },
+    {
+      "ay": 5,
+      "gun": 31,
+      "olay": "Bevârih rüzgârlarının başlaması",
+      "order": 352
+    },
+    {
+      "ay": 10,
+      "gun": 2,
+      "olay": "Selahaddin Eyyûbî'nin Kudüs'ü fethi (1187)",
+      "order": 608
+    },
+    {
+      "ay": 2,
+      "gun": 15,
+      "olay": "Gümüşhane'nin kurtuluşu (1918)",
+      "order": 97
+    },
+    {
+      "ay": 6,
+      "gun": 2,
+      "olay": "Açlıkla Mücadele Haftası",
+      "order": 354
+    },
+    {
+      "ay": 6,
+      "gun": 2,
+      "olay": "Yağmurlar",
+      "order": 355
+    },
+    {
+      "ay": 10,
+      "gun": 4,
+      "olay": "Fırtına",
+      "order": 611
+    },
+    {
+      "ay": 2,
+      "gun": 18,
+      "olay": "Fâtih Sultan Mehmed Han'ın tahta çıkışı (1451)",
+      "order": 101
+    },
+    {
+      "ay": 6,
+      "gun": 3,
+      "olay": "Fırtına",
+      "order": 357
+    },
+    {
+      "ay": 6,
+      "gun": 4,
+      "olay": "Sultan Abdülaziz Han'ın şehid edilişi (1876)",
+      "order": 358
+    },
+    {
+      "ay": 2,
+      "gun": 18,
+      "olay": "Fırtına",
+      "order": 103
+    },
+    {
+      "ay": 6,
+      "gun": 5,
+      "olay": "İsrail ile Mısır, Ürdün ve Suriye arasında 6 gün süren savaş oldu (1967)",
+      "order": 361
+    },
+    {
+      "ay": 10,
+      "gun": 9,
+      "olay": "Yanya Kalesi'nin fethi (1431)",
+      "order": 618
+    },
+    {
+      "ay": 2,
+      "gun": 20,
+      "olay": "Fırtına",
+      "order": 107
+    },
+    {
+      "ay": 2,
+      "gun": 21,
+      "olay": "Bayburt'un kurtuluşu (1918)",
+      "order": 108
+    },
+    {
+      "ay": 2,
+      "gun": 21,
+      "olay": "Fırtına",
+      "order": 109
+    },
+    {
+      "ay": 2,
+      "gun": 22,
+      "olay": "İbn-i Haldun'un vefâtı (1406)",
+      "order": 110
+    },
+    {
+      "ay": 10,
+      "gun": 12,
+      "olay": "Amerika'nın keşfi (1492)",
+      "order": 622
+    },
+    {
+      "ay": 2,
+      "gun": 23,
+      "olay": "Ardahan'ın kurtuluşu (1921)",
+      "order": 111
+    },
+    {
+      "ay": 10,
+      "gun": 12,
+      "olay": "Sokullu Mehmed Paşa'nın şehâdeti (1579)",
+      "order": 623
+    },
+    {
+      "ay": 6,
+      "gun": 10,
+      "olay": "Ülker doğumu fırtınası",
+      "order": 368
+    },
+    {
+      "ay": 10,
+      "gun": 12,
+      "olay": "Eğri Kalesi'nin fethi (1596)",
+      "order": 624
+    },
+    {
+      "ay": 6,
+      "gun": 11,
+      "olay": "Kânûnî Sultan Süleyman'ın İran Seferi (1534)",
+      "order": 369
+    },
+    {
+      "ay": 10,
+      "gun": 12,
+      "olay": "Ömer Nasûhi Bilmen'in vefâtı (1971)",
+      "order": 625
+    },
+    {
+      "ay": 2,
+      "gun": 24,
+      "olay": "İbn-i Batûta'nın vefâtı (1369)",
+      "order": 114
+    },
+    {
+      "ay": 6,
+      "gun": 11,
+      "olay": "Osmanlı Mecruhîn-i Askerî Muavenet Cemiyeti (Osmanlı Yaralı Askerlerine Yardım Cemiyeti) (Kızılay) kurulması (1868)",
+      "order": 370
+    },
+    {
+      "ay": 10,
+      "gun": 13,
+      "olay": "Ankara'nın başşehir olması (1923)",
+      "order": 626
+    },
+    {
+      "ay": 2,
+      "gun": 24,
+      "olay": "Cem Sultan'ın vefâtı (1495)",
+      "order": 115
+    },
+    {
+      "ay": 2,
+      "gun": 24,
+      "olay": "Trabzon'un kurtuluşu (1918)",
+      "order": 116
+    },
+    {
+      "ay": 10,
+      "gun": 14,
+      "olay": "(Tarsus) Lokman Hekim'i Anma Günü",
+      "order": 628
+    },
+    {
+      "ay": 2,
+      "gun": 25,
+      "olay": "Rusların Osmanlılara savaş ilan etmesi (1711)",
+      "order": 117
+    },
+    {
+      "ay": 10,
+      "gun": 15,
+      "olay": "Avrupa'da (halen kullanılan) Gregoryan Takvimi'nin kabulü (1582)",
+      "order": 629
+    },
+    {
+      "ay": 2,
+      "gun": 26,
+      "olay": "Sultan İkinci (Genç) Osman Han'ın tahta çıkışı (1618)",
+      "order": 118
+    },
+    {
+      "ay": 10,
+      "gun": 15,
+      "olay": "Fırtına",
+      "order": 630
+    },
+    {
+      "ay": 2,
+      "gun": 27,
+      "olay": "Şeyhülislâm Yahya Efendi'nin vefâtı (1644)",
+      "order": 120
+    },
+    {
+      "ay": 6,
+      "gun": 15,
+      "olay": "I. Kosova Zaferi ve Murad Hüdâvendigâr'ın şehâdeti (1389)",
+      "order": 376
+    },
+    {
+      "ay": 10,
+      "gun": 17,
+      "olay": "İlk Türk Tugayı'nın Kore'ye çıkması (1950)",
+      "order": 632
+    },
+    {
+      "ay": 2,
+      "gun": 27,
+      "olay": "İkinci Cemre'nin suya düşmesi",
+      "order": 121
+    },
+    {
+      "ay": 6,
+      "gun": 15,
+      "olay": "Yeniçeri Ocağı'nın kaldırılması (1826)",
+      "order": 377
+    },
+    {
+      "ay": 10,
+      "gun": 18,
+      "olay": "Kırlangıç fırtınası",
+      "order": 633
+    },
+    {
+      "ay": 2,
+      "gun": 28,
+      "olay": "Islâhat Fermânı'nın ilânı (1856)",
+      "order": 122
+    },
+    {
+      "ay": 2,
+      "gun": 28,
+      "olay": "Leyleklerin gelme zamanı",
+      "order": 123
+    },
+    {
+      "ay": 6,
+      "gun": 16,
+      "olay": "Yıldırım Bâyezid Han'ın cülûsu (1389)",
+      "order": 379
+    },
+    {
+      "ay": 2,
+      "gun": 28,
+      "olay": "Sivil Savunma Günü",
+      "order": 124
+    },
+    {
+      "ay": 3,
+      "gun": 1,
+      "olay": "Bosna Hersek Cumhuriyeti'nin istiklâli (1992)",
+      "order": 127
+    },
+    {
+      "ay": 6,
+      "gun": 18,
+      "olay": "Kâmûs-i Tûrki müellifi Şemseddin Sâmi'nin vefâtı (1904)",
+      "order": 383
+    },
+    {
+      "ay": 3,
+      "gun": 1,
+      "olay": "Muhasebeciler Günü",
+      "order": 128
+    },
+    {
+      "ay": 3,
+      "gun": 1,
+      "olay": "Yeşilay Haftası (1-7 Mart)",
+      "order": 129
+    },
+    {
+      "ay": 10,
+      "gun": 25,
+      "olay": "Uluğ Bey'in şehid edilmesi (1449)",
+      "order": 641
+    },
+    {
+      "ay": 3,
+      "gun": 2,
+      "olay": "Şâh-ı Nakşibend (k.s.) Hazretlerinin vefatı (1389)",
+      "order": 130
+    },
+    {
+      "ay": 3,
+      "gun": 2,
+      "olay": "Emir Sultan (k.s.) Hazretlerinin vefâtı (1430)",
+      "order": 131
+    },
+    {
+      "ay": 6,
+      "gun": 21,
+      "olay": "Soyadı Kanunu'nun kabulü (1934)",
+      "order": 387
+    },
+    {
+      "ay": 10,
+      "gun": 26,
+      "olay": "Trabzon'un fethi (1461)",
+      "order": 643
+    },
+    {
+      "ay": 3,
+      "gun": 2,
+      "olay": "Rize'nin kurtuluşu (1918)",
+      "order": 132
+    },
+    {
+      "ay": 3,
+      "gun": 2,
+      "olay": "Soğukların kırılması",
+      "order": 133
+    },
+    {
+      "ay": 6,
+      "gun": 21,
+      "olay": "Gündönümü ve fırtınası",
+      "order": 389
+    },
+    {
+      "ay": 3,
+      "gun": 3,
+      "olay": "Hilâfet'in kaldırılması ve Tevhîd-i Tedrîsât Kanunu'nun kabûlü (1924)",
+      "order": 134
+    },
+    {
+      "ay": 6,
+      "gun": 21,
+      "olay": "Zonguldak ve Sakarya'nın kurtuluşu (1921)",
+      "order": 390
+    },
+    {
+      "ay": 3,
+      "gun": 3,
+      "olay": "Vakıflar Umum Müdürlüğü ve Diyanet İşleri Reisliği'nin kuruluşu (1924)",
+      "order": 135
+    },
+    {
+      "ay": 6,
+      "gun": 21,
+      "olay": "Küçükleri muzır neşriyattan koruma kanunu kabul edildi (1927)",
+      "order": 391
+    },
+    {
+      "ay": 6,
+      "gun": 22,
+      "olay": "Sultan İkinci Süleyman'ın vefâtı (1691)",
+      "order": 393
+    },
+    {
+      "ay": 3,
+      "gun": 5,
+      "olay": "Yeşilay'ın kuruluşu (1920)",
+      "order": 138
+    },
+    {
+      "ay": 3,
+      "gun": 5,
+      "olay": "Soğukların azalmaya başlaması",
+      "order": 139
+    },
+    {
+      "ay": 3,
+      "gun": 6,
+      "olay": "Üçüncü Cemre'nin toprağa düşmesi",
+      "order": 141
+    },
+    {
+      "ay": 6,
+      "gun": 25,
+      "olay": "Sultan Abdülmecid'in vefâtı, Sultan Abdülaziz'in tahta çıkışı (1861)",
+      "order": 397
+    },
+    {
+      "ay": 10,
+      "gun": 30,
+      "olay": "Üçüncü Osman'ın vefâtı, Üçüncü Mustafa'nın tahta çıkışı (1757)",
+      "order": 653
+    },
+    {
+      "ay": 3,
+      "gun": 6,
+      "olay": "Pîri Reis'in vefâtı (1554)",
+      "order": 142
+    },
+    {
+      "ay": 6,
+      "gun": 25,
+      "olay": "Kore Savaşı'nın başlaması (1950)",
+      "order": 398
+    },
+    {
+      "ay": 10,
+      "gun": 30,
+      "olay": "Mondros Mütarekesi (1918)",
+      "order": 654
+    },
+    {
+      "ay": 3,
+      "gun": 7,
+      "olay": "Ağaçlara su yürüme zamanı",
+      "order": 143
+    },
+    {
+      "ay": 11,
+      "gun": 16,
+      "olay": "Haşerâtın (böceklerin) saklanması",
+      "order": 692
+    },
+    {
+      "ay": 3,
+      "gun": 22,
+      "olay": "Mart Dokuzu soğuğu ve fırtınası",
+      "order": 181
+    },
+    {
+      "ay": 7,
+      "gun": 11,
+      "olay": "Dünya Nüfus Günü",
+      "order": 437
+    },
+    {
+      "ay": 11,
+      "gun": 17,
+      "olay": "Akdeniz'i Kızıldeniz'e bağlayan Süveyş Kanalı'nın açılması (1869)",
+      "order": 693
+    },
+    {
+      "ay": 3,
+      "gun": 22,
+      "olay": "Uluğ Bey'in doğumu (1394)",
+      "order": 182
+    },
+    {
+      "ay": 7,
+      "gun": 12,
+      "olay": "Eğriboz Adası'nın fethi (1470)",
+      "order": 438
+    },
+    {
+      "ay": 11,
+      "gun": 17,
+      "olay": "Son Osmanlı Sultanı Vahîdeddin Han'ın yurtdışına çıkarılması (1922)",
+      "order": 694
+    },
+    {
+      "ay": 3,
+      "gun": 22,
+      "olay": "Dünya Su Günü",
+      "order": 183
+    },
+    {
+      "ay": 7,
+      "gun": 12,
+      "olay": "Varto (Muş) depremi (1966)",
+      "order": 439
+    },
+    {
+      "ay": 3,
+      "gun": 23,
+      "olay": "Uhud Gazâsı (625)",
+      "order": 184
+    },
+    {
+      "ay": 3,
+      "gun": 23,
+      "olay": "Kozkavuran fırtınası",
+      "order": 185
+    },
+    {
+      "ay": 3,
+      "gun": 23,
+      "olay": "Dünya Meteoroloji Günü",
+      "order": 186
+    },
+    {
+      "ay": 7,
+      "gun": 15,
+      "olay": "Demokrasi ve Milli Birlik Günü",
+      "order": 442
+    },
+    {
+      "ay": 11,
+      "gun": 19,
+      "olay": "İstanbul Radyosu'nun yayına başlaması (1949)",
+      "order": 698
+    },
+    {
+      "ay": 3,
+      "gun": 23,
+      "olay": "Pakistan'ın millî bayramı",
+      "order": 187
+    },
+    {
+      "ay": 7,
+      "gun": 15,
+      "olay": "Haçlıların Kudüs Katliâmı (1099)",
+      "order": 443
+    },
+    {
+      "ay": 7,
+      "gun": 16,
+      "olay": "Dünya KIBLE günü (İkincisi)",
+      "order": 445
+    },
+    {
+      "ay": 11,
+      "gun": 21,
+      "olay": "Sanayi Haftası",
+      "order": 701
+    },
+    {
+      "ay": 7,
+      "gun": 17,
+      "olay": "Abdülkadir Geylânî'nin (k.s.) vefâtı (1166)",
+      "order": 446
+    },
+    {
+      "ay": 11,
+      "gun": 22,
+      "olay": "Sultan Birinci Ahmed'in vefâtı ve Birinci Mustafa Han'ın tahta çıkışı (1617)",
+      "order": 702
+    },
+    {
+      "ay": 7,
+      "gun": 17,
+      "olay": "Fırtına",
+      "order": 447
+    },
+    {
+      "ay": 3,
+      "gun": 26,
+      "olay": "(Edirne) Balkan Şehitlerini Anma Günü",
+      "order": 192
+    },
+    {
+      "ay": 11,
+      "gun": 22,
+      "olay": "Ağız ve Diş Sağlığı Haftası",
+      "order": 704
+    },
+    {
+      "ay": 3,
+      "gun": 26,
+      "olay": "Çaylak fırtınası",
+      "order": 193
+    },
+    {
+      "ay": 11,
+      "gun": 23,
+      "olay": "Midilli Adası'nın fethi (1462)",
+      "order": 705
+    },
+    {
+      "ay": 3,
+      "gun": 26,
+      "olay": "Kütüphane Haftası (Mart'ın son haftası)",
+      "order": 194
+    },
+    {
+      "ay": 7,
+      "gun": 20,
+      "olay": "Montreux Boğazlar Antlaşması'nın imzalanması (1936)",
+      "order": 450
+    },
+    {
+      "ay": 11,
+      "gun": 23,
+      "olay": "Türkiye'de ilk kalp nakli ameliyatı (1968)",
+      "order": 706
+    },
+    {
+      "ay": 3,
+      "gun": 27,
+      "olay": "Ahmet Cevdet Paşa'nın doğumu (1823)",
+      "order": 195
+    },
+    {
+      "ay": 7,
+      "gun": 20,
+      "olay": "Birinci Kıbrıs Harekâtı (1974)",
+      "order": 451
+    },
+    {
+      "ay": 11,
+      "gun": 24,
+      "olay": "Öğretmenler Günü",
+      "order": 707
+    },
+    {
+      "ay": 3,
+      "gun": 27,
+      "olay": "Gediz depremi (1970 / 1087 ölü)",
+      "order": 196
+    },
+    {
+      "ay": 7,
+      "gun": 21,
+      "olay": "Ermenilerin Sultan İkinci Abdülhamid'e Yıldız Sûikastı (1905)",
+      "order": 452
+    },
+    {
+      "ay": 3,
+      "gun": 28,
+      "olay": "İstanbul'da ilk trafik kazası, bir kişi yaralandı (1910)",
+      "order": 197
+    },
+    {
+      "ay": 7,
+      "gun": 21,
+      "olay": "İnsanoğlunun Ay'a ayak basması (1969)",
+      "order": 453
+    },
+    {
+      "ay": 3,
+      "gun": 28,
+      "olay": "Göktürk Devleti'nin Çinliler tarafından yıkılması (630)",
+      "order": 198
+    },
+    {
+      "ay": 11,
+      "gun": 26,
+      "olay": "Eser-i Hayr isimli Osmanlı yapımı buharlı gemi denize indirildi (1837)",
+      "order": 710
+    },
+    {
+      "ay": 3,
+      "gun": 29,
+      "olay": "Çaylakların gelme zamanı",
+      "order": 199
+    },
+    {
+      "ay": 7,
+      "gun": 22,
+      "olay": "Adapazarı zelzelesi (1967)",
+      "order": 455
+    },
+    {
+      "ay": 3,
+      "gun": 29,
+      "olay": "Ağaçların yeşermesi",
+      "order": 200
+    },
+    {
+      "ay": 7,
+      "gun": 23,
+      "olay": "İkinci Meşrutiyet'in ilânı (1908)",
+      "order": 456
+    },
+    {
+      "ay": 11,
+      "gun": 26,
+      "olay": "Lâkap ve unvanların kaldırılması (1934)",
+      "order": 712
+    },
+    {
+      "ay": 3,
+      "gun": 29,
+      "olay": "Haşerâtın canlanması",
+      "order": 201
+    },
+    {
+      "ay": 11,
+      "gun": 27,
+      "olay": "Selimiye Câmii'nin açılışı (1575)",
+      "order": 713
+    },
+    {
+      "ay": 7,
+      "gun": 24,
+      "olay": "İstanbul'da yangın (1660)",
+      "order": 458
+    },
+    {
+      "ay": 11,
+      "gun": 27,
+      "olay": "Ağaçlardan suyun çekilmesi",
+      "order": 714
+    },
+    {
+      "ay": 11,
+      "gun": 27,
+      "olay": "Pastırma yazı sonu",
+      "order": 715
+    },
+    {
+      "ay": 3,
+      "gun": 31,
+      "olay": "Eyfel Kulesi'nin yapılışı (1889)",
+      "order": 204
+    },
+    {
+      "ay": 4,
+      "gun": 1,
+      "olay": "Kanserle Savaş Haftası (1-7 Nisan)",
+      "order": 205
+    },
+    {
+      "ay": 11,
+      "gun": 29,
+      "olay": "Ülker Fırtınası",
+      "order": 717
+    },
+    {
+      "ay": 4,
+      "gun": 1,
+      "olay": "Varşova Paktı feshedildi (1991)",
+      "order": 206
+    },
+    {
+      "ay": 4,
+      "gun": 16,
+      "olay": "Yağmurlar",
+      "order": 248
+    },
+    {
+      "ay": 7,
+      "gun": 26,
+      "olay": "Boğdan (1476) ve Tameşvar Kalesi'nin (1552) fetihleri",
+      "order": 462
+    },
+    {
+      "ay": 11,
+      "gun": 30,
+      "olay": "Türbe ve tekkelerin kapatılması (1925)",
+      "order": 718
+    },
+    {
+      "ay": 4,
+      "gun": 2,
+      "olay": "Mescid-i Nebevî'nin yapılması (622)",
+      "order": 207
+    },
+    {
+      "ay": 7,
+      "gun": 26,
+      "olay": "Edirne ve Kırklareli'nin Yunanlılar tarafından işgâli (1920)",
+      "order": 463
+    },
+    {
+      "ay": 11,
+      "gun": 30,
+      "olay": "Şiddetli soğuklar ve yağışlar",
+      "order": 719
+    },
+    {
+      "ay": 4,
+      "gun": 2,
+      "olay": "Van'ın kurtuluşu (1918)",
+      "order": 208
+    },
+    {
+      "ay": 7,
+      "gun": 27,
+      "olay": "(Yemen) Aden'in Süleyman Paşa tarafından fethi (1538)",
+      "order": 464
+    },
+    {
+      "ay": 4,
+      "gun": 3,
+      "olay": "Bereketli yağmurlar",
+      "order": 209
+    },
+    {
+      "ay": 7,
+      "gun": 27,
+      "olay": "Kore Savaşları'nın sona ermesi (1953)",
+      "order": 465
+    },
+    {
+      "ay": 4,
+      "gun": 3,
+      "olay": "Çiçeklerin açma ve bülbüllerin ötme zamanı",
+      "order": 210
+    },
+    {
+      "ay": 7,
+      "gun": 28,
+      "olay": "Ankara Savaşı (1402)",
+      "order": 466
+    },
+    {
+      "ay": 4,
+      "gun": 3,
+      "olay": "Topkapı Sarayı Müze olarak açıldı (1924)",
+      "order": 211
+    },
+    {
+      "ay": 12,
+      "gun": 3,
+      "olay": "Dünya Özürlüler Günü",
+      "order": 723
+    },
+    {
+      "ay": 4,
+      "gun": 4,
+      "olay": "NATO kuruldu (1949)",
+      "order": 212
+    },
+    {
+      "ay": 7,
+      "gun": 29,
+      "olay": "Yaprak aşısı sonu",
+      "order": 468
+    },
+    {
+      "ay": 12,
+      "gun": 4,
+      "olay": "İnönü, Churchil ve Roosevelt'in Kahire Konferansı (1943)",
+      "order": 724
+    },
+    {
+      "ay": 4,
+      "gun": 4,
+      "olay": "Dumlupınar Denizaltısı'nın batışı (1953)",
+      "order": 213
+    },
+    {
+      "ay": 7,
+      "gun": 29,
+      "olay": "Üzümlerin olgunlaşmaya başlaması",
+      "order": 469
+    },
+    {
+      "ay": 7,
+      "gun": 29,
+      "olay": "Şiddetli sıcaklar",
+      "order": 470
+    },
+    {
+      "ay": 12,
+      "gun": 5,
+      "olay": "Nûruosmâniye Câmii ibâdete açıldı (1755)",
+      "order": 726
+    },
+    {
+      "ay": 4,
+      "gun": 5,
+      "olay": "Gâzi Osman Paşa'nın vefâtı (1900)",
+      "order": 215
+    },
+    {
+      "ay": 4,
+      "gun": 6,
+      "olay": "Bursa'nın fethi (1326)",
+      "order": 216
+    },
+    {
+      "ay": 7,
+      "gun": 30,
+      "olay": "Kızılerik fırtınası",
+      "order": 472
+    },
+    {
+      "ay": 12,
+      "gun": 6,
+      "olay": "Kuzey rüzgârlarının başlaması",
+      "order": 728
+    },
+    {
+      "ay": 8,
+      "gun": 24,
+      "olay": "Vezüv Yanardağı'nın Pompei ve Herkülaneum şehirlerini yok etmesi (79)",
+      "order": 507
+    },
+    {
+      "ay": 12,
+      "gun": 27,
+      "olay": "Erzincan Depremi (1939 / 39 bin ölü)",
+      "order": 763
+    },
+    {
+      "ay": 8,
+      "gun": 24,
+      "olay": "Yavuz Sultan Selim Han'ın Mercidâbık Zaferi (1516)",
+      "order": 508
+    },
+    {
+      "ay": 12,
+      "gun": 27,
+      "olay": "Gündönümü Fırtınası",
+      "order": 764
+    },
+    {
+      "ay": 8,
+      "gun": 25,
+      "olay": "Yavuz Sultan Selim Han'ın Çaldıran Zaferi'nden sonra Tebriz'e hareketi (1514)",
+      "order": 509
+    },
+    {
+      "ay": 12,
+      "gun": 28,
+      "olay": "İstanbul-İzmit Anadolu Otoyolu'nun açılışı (1984)",
+      "order": 765
+    },
+    {
+      "ay": 8,
+      "gun": 25,
+      "olay": "Büyük İstanbul Yangını (1515)",
+      "order": 510
+    },
+    {
+      "ay": 12,
+      "gun": 28,
+      "olay": "Şiddetli soğuklar",
+      "order": 766
+    },
+    {
+      "ay": 4,
+      "gun": 19,
+      "olay": "Kuğu fırtınası",
+      "order": 255
+    },
+    {
+      "ay": 8,
+      "gun": 25,
+      "olay": "Sam rüzgârlarının sonu",
+      "order": 511
+    },
+    {
+      "ay": 12,
+      "gun": 28,
+      "olay": "İskenderun Demir-Çelik Fabrikası'nın açılışı (1975)",
+      "order": 767
+    },
+    {
+      "ay": 1,
+      "gun": 1,
+      "olay": "Mîlâdî yılbaşı",
+      "order": 2
+    },
+    {
+      "ay": 7,
+      "gun": 1,
+      "olay": "Sultan Üçüncü Ahmed'in vefâtı (1736)",
+      "order": 1
+    }
+  ]
+}
