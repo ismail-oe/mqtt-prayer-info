@@ -12,11 +12,8 @@ def getTime(json_path):
     except IndexError:
         return None
     
-times = getTime('raspi/ressources/times_dortmund.json')
+times = getTime('raspi/ressources/times_sampleCity.json')
 if times:
-    print("Gebetszeiten für heute:")
-    for key, value in times.items():
-        if key not in ["bolge_id", "tarih"] and value:
-            print(f"{key}: {value}")
+    print(times)
 else:
-    print("Keine Gebetszeiten für heute gefunden.")
+    print("No prayer-times found.")
