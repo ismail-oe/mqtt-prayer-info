@@ -1,6 +1,9 @@
 import json
 from datetime import datetime
 import paho.mqtt.client as mqtt
+from datetime import datetime
+
+timestamp = datetime.now().isoformat()
 
 # load .json file with prayer times
 def load_config(path="raspi/config.json"):
@@ -31,9 +34,10 @@ if data_yesterday and data_today and data_tomorrow:
     client = mqtt.Client()
     client.connect(config["mqtt_host"], config["mqtt_port"], 60)
 
-    client.publish(config["mqtt_publish_path"] + "/yesterday", json.dumps(data_yesterday))
-    client.publish(config["mqtt_publish_path"] + "/today", json.dumps(data_today))
-    client.publish(config["mqtt_publish_path"] + "/tomorrow", json.dumps(data_tomorrow))
+    client.publish(config["mqtt_publish_path"] + "/timestamp", timestamp, retain=True)
+    client.publish(config["mqtt_publish_path"] + "/yesterday", json.dumps(data_yesterday), retain=True)
+    client.publish(config["mqtt_publish_path"] + "/today", json.dumps(data_today), retain=True)
+    client.publish(config["mqtt_publish_path"] + "/tomorrow", json.dumps(data_tomorrow), retain=True)
 
     client.disconnect()
 
