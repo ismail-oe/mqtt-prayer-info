@@ -1,12 +1,13 @@
-import json
+import json, os
 from datetime import datetime
 import paho.mqtt.client as mqtt
 from datetime import datetime
 
+script_dir = os.path.dirname(os.path.abspath(__file__))
 timestamp = datetime.now().isoformat()
 
 # load .json file with prayer times
-def load_config(path="raspi/config.json"):
+def load_config(path=os.path.join(script_dir, "raspi", "config.json")):
     with open(path, "r", encoding="utf-8") as file:
         return json.load(file)
 
@@ -24,10 +25,12 @@ def getTime(json_path):
         return [data["data"][index-1], data["data"][index], data["data"][index+1]]
     except IndexError:
         return None
-    
-data_yesterday = getTime(config["data_path"])[0]
-data_today = getTime(config["data_path"])[1]
-data_tomorrow = getTime(config["data_path"])[2]
+
+data_path = os.path.join(script_dir, config["data_path"])
+
+data_yesterday = getTime(data_path)[0]
+data_today = getTime(data_path)[1]
+data_tomorrow = getTime(data_path)[2]
 
 # main function only starts when data for yesterday, today and tomorrow is given
 if data_yesterday and data_today and data_tomorrow:
