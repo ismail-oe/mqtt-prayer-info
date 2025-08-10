@@ -7,7 +7,7 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 timestamp = datetime.now().isoformat()
 
 # load .json file with prayer times
-def load_config(path=os.path.join(script_dir, "raspi", "config.json")):
+def load_config(path=os.path.join(script_dir, "config.json")):
     with open(path, "r", encoding="utf-8") as file:
         return json.load(file)
 

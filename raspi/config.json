@@ -1,5 +1,5 @@
 {
-    "data_path": "raspi/ressources/times_sampleCity.json",
+    "data_path": "ressources/times_sampleCity.json",
     "mqtt_port": 1883,
     "mqtt_host": "localhost",
     "mqtt_publish_path": "mqtt-prayer-info/times"
