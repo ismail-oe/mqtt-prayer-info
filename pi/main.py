@@ -22,23 +22,19 @@ def getTime(json_path):
         data = json.load(f)
 
     try:
-        return [data["data"][index-1], data["data"][index], data["data"][index+1]]
+        return [data["data"][index], data["data"][index+1]]
     except IndexError:
         return None
 
 data_path = os.path.join(script_dir, config["data_path"])
 
-data_yesterday = getTime(data_path)[0]
-data_today = getTime(data_path)[1]
-data_tomorrow = getTime(data_path)[2]
+data_today = getTime(data_path)[0]
+data_tomorrow = getTime(data_path)[1]
 
-# main function only starts when data for yesterday, today and tomorrow is given
-if data_yesterday and data_today and data_tomorrow:
+if data_today and data_tomorrow:
     client = mqtt.Client()
     client.connect(config["mqtt_host"], config["mqtt_port"], 60)
 
-    client.publish(config["mqtt_publish_path"] + "/timestamp", timestamp, retain=True)
-    client.publish(config["mqtt_publish_path"] + "/yesterday", json.dumps(data_yesterday), retain=True)
     client.publish(config["mqtt_publish_path"] + "/today", json.dumps(data_today), retain=True)
     client.publish(config["mqtt_publish_path"] + "/tomorrow", json.dumps(data_tomorrow), retain=True)
 
